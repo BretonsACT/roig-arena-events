@@ -260,7 +260,12 @@ def scrape_valencia_basket_events():
     return scraped
 
 def clean_dt(dt_str):
-    return dt_str.split('+')[0].replace('-', '').replace(':', '')
+    """Formats ISO datetime strings into strict RFC 5545 YYYYMMDDTHHmmss format without trailing Z or fractional seconds."""
+    s = str(dt_str).split('+')[0].split('.')[0].rstrip('Z')
+    s = s.replace('-', '').replace(':', '')
+    if len(s) >= 15:
+        return s[:15]
+    return s
 
 def generate_gcal_link(event):
     """Generates a 1-click Google Calendar add link for an event."""
