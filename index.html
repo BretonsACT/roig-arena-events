@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Roig Arena Events - Google Calendar Hub</title>
+  <meta name="description" content="Official schedule, concerts, sports, and events for Roig Arena Valencia. Subscribe or add directly to Google Calendar.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header Navbar -->
+  <header>
+    <div class="container nav-wrapper">
+      <a href="#" class="brand">
+        <div class="brand-logo">R</div>
+        <div class="brand-text">
+          <h1>Roig Arena Events</h1>
+          <p>Google Calendar Integration & Live Schedule</p>
+        </div>
+      </a>
+      <div class="header-actions">
+        <button class="btn btn-secondary" onclick="exportAllIcs()">
+          <span>📥</span> Export .ics
+        </button>
+        <button class="btn btn-primary" onclick="createGoogleCalendarPage()">
+          <span>➕</span> Create in Google Calendar
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Hero Banner -->
+    <section class="hero-section">
+      <div class="hero-card">
+        <div class="hero-content">
+          <div class="gcal-step-badge" id="liveSyncBadge">
+            <span class="pulse-dot"></span> <span id="syncBadgeText">Live WebCAL Feed Active & Auto-Synced</span>
+          </div>
+          <h2>Roig Arena Events Calendar</h2>
+          <p>
+            Subscribe once to automatically sync all concerts, EuroLeague basketball matches, festivals, and live shows at Valencia's Roig Arena directly into your Google Calendar, Apple iCal, or Outlook.
+          </p>
+          <div class="hero-actions">
+            <button class="btn btn-primary btn-glow" onclick="subscribeWebcal()">
+              <span>📡</span> Subscribe via WebCAL (Auto-Sync)
+            </button>
+            <button class="btn btn-accent" onclick="copyIcsUrl()">
+              <span>📋</span> Copy iCal Feed URL
+            </button>
+            <button class="btn btn-secondary" onclick="exportAllIcs()">
+              <span>📥</span> Download .ics File
+            </button>
+            <button class="btn btn-secondary" onclick="openInstructionsModal()">
+              <span>❓</span> Setup Guide
+            </button>
+          </div>
+
+          <div class="feed-url-box">
+            <label for="feedUrlInput">Live iCal Feed Subscription URL:</label>
+            <div class="input-copy-group">
+              <input type="text" id="feedUrlInput" readonly value="">
+              <button class="btn btn-primary" onclick="copyIcsUrl()">
+                <span>📋</span> Copy
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="hero-stats">
+          <div class="stat-item">
+            <div class="stat-icon">🏟️</div>
+            <div class="stat-info">
+              <div class="number" id="totalEventsCount">21</div>
+              <div class="label">Upcoming Major Events</div>
+            </div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-icon">🔄</div>
+            <div class="stat-info">
+              <div class="number" id="syncStatusTime">Monthly 1st</div>
+              <div class="label" id="syncStatusLabel">Automated Scraping</div>
+            </div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-icon">📍</div>
+            <div class="stat-info">
+              <div class="number">Valencia</div>
+              <div class="label">Roig Arena, Spain</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Controls & Filter Bar -->
+    <section class="controls-bar">
+      <div class="filters-group">
+        <button class="filter-chip active" data-cat="All">All Events</button>
+        <button class="filter-chip" data-cat="Concert">Concerts</button>
+        <button class="filter-chip" data-cat="Sports">Sports & Basketball</button>
+        <button class="filter-chip" data-cat="Party">Festivals & Shows</button>
+      </div>
+      <div class="search-box">
+        <input type="text" id="searchInput" class="search-input" placeholder="🔍 Search event, artist, team...">
+      </div>
+      <button class="btn btn-secondary" id="openAddModalBtn">
+        <span>➕</span> Add Custom Event
+      </button>
+    </section>
+
+    <!-- Events Grid -->
+    <section class="events-grid" id="eventsContainer">
+      <!-- Populated dynamically via app.js -->
+    </section>
+  </main>
+
+
+  <!-- Add Event Modal -->
+  <div class="modal-backdrop" id="addEventModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 class="modal-title">Add Event to Roig Arena Calendar</h3>
+        <button class="close-btn" id="closeModalBtn">&times;</button>
+      </div>
+      <form id="addEventForm">
+        <div class="form-group">
+          <label for="eventTitle">Event Title</label>
+          <input type="text" id="eventTitle" class="form-control" placeholder="e.g. Valencia Basket vs Real Madrid" required>
+        </div>
+        <div class="form-group">
+          <label for="eventCategory">Category</label>
+          <select id="eventCategory" class="form-control">
+            <option value="Concert">Concert</option>
+            <option value="Sports">Sports</option>
+            <option value="Party">Festival / Party</option>
+            <option value="Show">Show / Culture</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="eventDate">Date</label>
+          <input type="date" id="eventDate" class="form-control" required>
+        </div>
+        <div class="form-group">
+          <label for="eventTime">Start Time (CEST)</label>
+          <input type="time" id="eventTime" class="form-control" value="21:00" required>
+        </div>
+        <div class="form-group">
+          <label for="eventDesc">Description / Details</label>
+          <textarea id="eventDesc" class="form-control" rows="3" placeholder="Additional info, ticket link, etc."></textarea>
+        </div>
+        <div style="display: flex; justify-content: flex-end; gap: 12px; margin-top: 24px;">
+          <button type="button" class="btn btn-secondary" onclick="document.getElementById('addEventModal').classList.remove('active')">Cancel</button>
+          <button type="submit" class="btn btn-primary">Add Event</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Setup Instructions Modal -->
+  <div class="modal-backdrop" id="instructionsModal">
+    <div class="modal-card" style="max-width: 640px;">
+      <div class="modal-header">
+        <h3 class="modal-title">📅 How to Subscribe to Live Calendar Feed</h3>
+        <button class="close-btn" onclick="document.getElementById('instructionsModal').classList.remove('active')">&times;</button>
+      </div>
+      <div class="guide-tabs">
+        <button class="guide-tab active" data-tab="gcal">Google Calendar</button>
+        <button class="guide-tab" data-tab="apple">Apple Calendar / iOS</button>
+        <button class="guide-tab" data-tab="outlook">Outlook & Web</button>
+      </div>
+      <div class="guide-body" id="guideBody">
+        <!-- Tab contents updated dynamically -->
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 24px;">
+        <button class="btn btn-accent btn-sm" onclick="copyIcsUrl()"><span>📋</span> Copy Feed URL</button>
+        <button class="btn btn-primary" onclick="document.getElementById('instructionsModal').classList.remove('active')">Close Guide</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification Container -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
+

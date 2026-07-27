@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Roig Arena Valencia//Roig Arena & Valencia Basket Events 2.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Roig Arena Events
+X-WR-TIMEZONE:Europe/Madrid
+X-WR-CALDESC:Official and upcoming concerts, live shows, and Valencia Basket games at Roig Arena Valencia.
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+X-LIC-LOCATION:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:roig-arena-evt-1@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260731T210000
+DTEND;TZID=Europe/Madrid:20260731T233000
+SUMMARY:Yandel Sinfónico - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Yandel presents Yandel Sinfónico live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Yandel Sinfónico - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-2@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260731T230000
+DTEND;TZID=Europe/Madrid:20260801T030000
+SUMMARY:Las Noches del Arena - Reguetón de Siempre
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Las Noches del Arena: Reguetón de Siempre live performance.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Las Noches del Arena - Reguetón de Siempre starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-3@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260815T200000
+DTEND;TZID=Europe/Madrid:20260815T223000
+SUMMARY:Mumiy Troll Live - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Mumiy Troll live in concert at Roig Arena Valencia.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Mumiy Troll Live - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-4@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260820T210000
+DTEND;TZID=Europe/Madrid:20260820T233000
+SUMMARY:Judas Priest - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Heavy Metal legends Judas Priest performing live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Judas Priest - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-5@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260903T210000
+DTEND;TZID=Europe/Madrid:20260903T233000
+SUMMARY:The Waterboys feat. Steve Earle - Fisherman's Blues Revue
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:The Waterboys present Fisherman's Blues Revue featuring Steve Earle live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The Waterboys feat. Steve Earle - Fisherman's Blues Revue starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-6@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260904T210000
+DTEND;TZID=Europe/Madrid:20260904T233000
+SUMMARY:La Oreja de Van Gogh - Tantas Cosas Que Contar Tour (Day 1)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:La Oreja de Van Gogh live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: La Oreja de Van Gogh - Tantas Cosas Que Contar Tour (Day 1) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-7@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260905T210000
+DTEND;TZID=Europe/Madrid:20260905T233000
+SUMMARY:La Oreja de Van Gogh - Tantas Cosas Que Contar Tour (Day 2)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:La Oreja de Van Gogh live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: La Oreja de Van Gogh - Tantas Cosas Que Contar Tour (Day 2) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-8@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260906T200000
+DTEND;TZID=Europe/Madrid:20260906T223000
+SUMMARY:El Kuelgue - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:El Kuelgue live in concert at Roig Arena Valencia.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: El Kuelgue - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-9@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260927T183000
+DTEND;TZID=Europe/Madrid:20260927T203000
+SUMMARY:Valencia Basket vs FC Barcelona (Liga Endesa Opener)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Liga Endesa 2026-2027 season opener at Roig Arena Valencia.\nhttps://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs FC Barcelona (Liga Endesa Opener) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-10@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20261009T191500
+DTEND;TZID=Europe/Madrid:20261009T211500
+SUMMARY:Valencia Basket Femení vs Perfumerías Avenida (LF Endesa)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Liga Femenina Endesa fixture at Roig Arena Valencia.\nhttps://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket Femení vs Perfumerías Avenida (LF Endesa) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-11@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20261018T183000
+DTEND;TZID=Europe/Madrid:20261018T203000
+SUMMARY:Valencia Basket vs Real Madrid (Liga Endesa)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Valencia Basket vs Real Madrid regular season fixture at Roig Arena.\nhttps://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Real Madrid (Liga Endesa) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-12@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20261029T203000
+DTEND;TZID=Europe/Madrid:20261029T223000
+SUMMARY:Valencia Basket vs FC Barcelona (EuroLeague)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Valencia Basket vs FC Barcelona EuroLeague fixture at Roig Arena.\nhttps://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs FC Barcelona (EuroLeague) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-13@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20261108T210000
+DTEND;TZID=Europe/Madrid:20261108T233000
+SUMMARY:Bryan Adams - Roll With The Punches Tour
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Bryan Adams live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Bryan Adams - Roll With The Punches Tour starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-14@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20261119T204500
+DTEND;TZID=Europe/Madrid:20261119T224500
+SUMMARY:Valencia Basket vs Panathinaikos AKTOR (EuroLeague)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:EuroLeague regular season match vs Panathinaikos at Roig Arena.\nhttps://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Panathinaikos AKTOR (EuroLeague) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-15@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20261220T183000
+DTEND;TZID=Europe/Madrid:20261220T203000
+SUMMARY:Valencia Basket vs Unicaja Málaga (Liga Endesa)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Liga Endesa regular season fixture vs Unicaja Málaga at Roig Arena.\nhttps://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Unicaja Málaga (Liga Endesa) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-16@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20270114T203000
+DTEND;TZID=Europe/Madrid:20270114T223000
+SUMMARY:Valencia Basket vs Olympiacos BC (EuroLeague)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:EuroLeague regular season match vs Olympiacos BC at Roig Arena.\nhttps://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Olympiacos BC (EuroLeague) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-17@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20270218T180000
+DTEND;TZID=Europe/Madrid:20270221T230000
+SUMMARY:Copa del Rey de Baloncesto 2027 (Hosted at Roig Arena)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Copa del Rey 2027 tournament host venue at Roig Arena Valencia.\nhttps://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Copa del Rey de Baloncesto 2027 (Hosted at Roig Arena) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-18@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20270320T180000
+DTEND;TZID=Europe/Madrid:20270320T200000
+SUMMARY:Valencia Basket Femení vs Casademont Zaragoza (LF Endesa)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Liga Femenina Endesa match at Roig Arena Valencia.\nhttps://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket Femení vs Casademont Zaragoza (LF Endesa) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-19@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20270409T210000
+DTEND;TZID=Europe/Madrid:20270409T233000
+SUMMARY:Thirty Seconds To Mars - World Tour
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Thirty Seconds To Mars live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Thirty Seconds To Mars - World Tour starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-20@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20270418T183000
+DTEND;TZID=Europe/Madrid:20270418T203000
+SUMMARY:Valencia Basket vs Baskonia (Liga Endesa)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Liga Endesa regular season fixture vs Baskonia at Roig Arena.\nhttps://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Baskonia (Liga Endesa) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-21@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20270510T200000
+DTEND;TZID=Europe/Madrid:20270510T230000
+SUMMARY:Hans Zimmer Live - The Next Level
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Hans Zimmer live in concert at Roig Arena Valencia featuring full orchestra.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hans Zimmer Live - The Next Level starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-22@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260815T180000.000Z
+DTEND;TZID=Europe/Madrid:20260815T180000.000Z
+SUMMARY:Mumiy Troll - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Event scraped live from Roig Arena official schedule.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Mumiy Troll - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-23@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260903T190000.000Z
+DTEND;TZID=Europe/Madrid:20260903T190000.000Z
+SUMMARY:Fisherman’s Blues Revue featuring Steve Earle - The Waterboys - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Event scraped live from Roig Arena official schedule.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fisherman’s Blues Revue featuring Steve Earle - The Waterboys - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-24@roigarena.com
+DTSTAMP:20260727T210442Z
+DTSTART;TZID=Europe/Madrid:20260904T190000.000Z
+DTEND;TZID=Europe/Madrid:20260904T190000.000Z
+SUMMARY:Tantas cosas que contar Tour 2026 - La Oreja de Van Gogh - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Event scraped live from Roig Arena official schedule.\nhttps://www.roigarena.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Tantas cosas que contar Tour 2026 - La Oreja de Van Gogh - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "last_updated": "2026-07-27T23:04:42.393869",
+  "total_events": 24,
+  "categories": {
+    "Concert": 13,
+    "Party": 1,
+    "Sports": 10
+  },
+  "calendar_name": "Roig Arena Events",
+  "timezone": "Europe/Madrid",
+  "version": "2.0"
+}
