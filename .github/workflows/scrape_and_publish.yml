@@ -6,9 +6,10 @@ on:
   schedule:
     # Runs every Monday at 06:00 UTC
     - cron: '0 6 * * 1'
+  workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -31,6 +32,18 @@ jobs:
       - name: Run Unified Scraper & Generate iCal (.ics) Feed
         run: |
           python3 create_calendar.py
+
+      - name: Commit & Push Calendar Updates to Repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Roig_Arena_Events.ics events.json status.json
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-sync calendar events [skip ci]"
+            git push origin main
+          else
+            echo "No calendar changes detected; skipping commit."
+          fi
 
       - name: Upload GitHub Pages Artifact
         uses: actions/upload-pages-artifact@v3
