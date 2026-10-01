@@ -1,13 +1,34 @@
 {
   "status": "success",
-  "last_updated": "2026-07-27T23:38:39.409198",
-  "total_events": 24,
+  "last_updated": "2026-10-01T22:29:01.018698",
+  "total_events": 157,
+  "all_three_webs_verified": true,
   "categories": {
-    "Concert": 13,
-    "Party": 1,
-    "Sports": 10
+    "Concert": 103,
+    "Party": 3,
+    "Sports": 51
+  },
+  "sources": {
+    "roigarena_catalog": {
+      "url": "https://www.roigarena.com/es/eventos/",
+      "scraped_count": 106,
+      "included_count": 106,
+      "coverage_pct": 100.0
+    },
+    "roigarena_home": {
+      "url": "https://www.roigarena.com/",
+      "scraped_count": 8,
+      "included_count": 8,
+      "coverage_pct": 100.0
+    },
+    "valencia_basket": {
+      "url": "https://www.valenciabasket.com/ca/calendario",
+      "scraped_count": 49,
+      "included_count": 49,
+      "coverage_pct": 100.0
+    }
   },
   "calendar_name": "Roig Arena Events",
   "timezone": "Europe/Madrid",
-  "version": "2.0"
+  "version": "3.0"
 }

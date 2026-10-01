@@ -241,6 +241,7 @@ let searchQuery = "";
 document.addEventListener("DOMContentLoaded", () => {
   initFeedUrl();
   loadLiveStatus();
+  loadLiveEvents();
   renderEvents();
   setupEventListeners();
   updateStats();
@@ -301,13 +302,58 @@ function loadLiveStatus() {
         const statusTime = document.getElementById("syncStatusTime");
         const statusLabel = document.getElementById("syncStatusLabel");
 
-        if (badge) badge.innerText = `Live WebCAL Feed Auto-Synced (${dateStr} ${timeStr})`;
-        if (statusTime) statusTime.innerText = `${timeStr}`;
-        if (statusLabel) statusLabel.innerText = `Auto-Synced ${dateStr}`;
+        if (badge) {
+          if (data.all_three_webs_verified) {
+            badge.innerText = `✓ 3 Webs Verified & Auto-Synced (${dateStr} ${timeStr})`;
+          } else {
+            badge.innerText = `Live WebCAL Feed Auto-Synced (${dateStr} ${timeStr})`;
+          }
+        }
+        if (statusTime) statusTime.innerText = `${data.total_events || timeStr}`;
+        if (statusLabel) statusLabel.innerText = `Live Events Verified`;
       }
     })
     .catch(() => {
       // Offline or local file preview fallback
+    });
+}
+
+function loadLiveEvents() {
+  fetch('events.json')
+    .then(res => {
+      if (!res.ok) throw new Error("Status " + res.status);
+      return res.json();
+    })
+    .then(data => {
+      if (Array.isArray(data) && data.length > 0) {
+        eventsState = data.map((evt, idx) => {
+          const startIso = evt.start || "";
+          const endIso = evt.end || "";
+          const dateStr = startIso.includes("T") ? startIso.split("T")[0] : startIso;
+          const timePart = startIso.includes("T") ? startIso.split("T")[1].substring(0, 5) : "20:00";
+          const endTimePart = endIso.includes("T") ? endIso.split("T")[1].substring(0, 5) : "22:30";
+          
+          return {
+            id: `roig-${idx + 1}`,
+            title: evt.title || (evt.summary || "").replace(/\s*-\s*Roig Arena$/i, ''),
+            category: evt.category || "Concert",
+            date: dateStr,
+            startTime: timePart,
+            endTime: endTimePart,
+            location: evt.location || "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
+            description: evt.description || "",
+            url: evt.url || "https://www.roigarena.com/",
+            ticket_url: evt.ticket_url || evt.url || "https://www.roigarena.com/",
+            image_url: evt.image_url || "",
+            sources: evt.sources || []
+          };
+        });
+        renderEvents();
+        updateStats();
+      }
+    })
+    .catch(err => {
+      console.debug("Fallback to bundled static events list:", err);
     });
 }
 
@@ -332,10 +378,11 @@ function renderEvents() {
 
   container.innerHTML = filtered.map(evt => {
     const d = new Date(evt.date);
-    const day = evt.date.split('-')[2];
-    const monthStr = d.toLocaleString('en-US', { month: 'short' });
-    const isSports = evt.category.toLowerCase() === 'sports';
-    const isParty = evt.category.toLowerCase() === 'party';
+    const day = evt.date.split('-')[2] || '01';
+    const monthStr = !isNaN(d.getTime()) ? d.toLocaleString('en-US', { month: 'short' }) : 'TBD';
+    const yearStr = !isNaN(d.getTime()) ? d.getFullYear() : '';
+    const isSports = (evt.category || '').toLowerCase() === 'sports';
+    const isParty = (evt.category || '').toLowerCase() === 'party';
     
     const catClass = isSports ? 'sports' : isParty ? 'party' : '';
     const gcalUrl = buildGcalUrl(evt);
@@ -343,11 +390,16 @@ function renderEvents() {
     return `
       <div class="event-card ${catClass}">
         <div>
+          ${evt.image_url ? `
+            <div class="event-image-container">
+              <img src="${evt.image_url}" alt="${evt.title}" loading="lazy" class="event-thumb" onerror="this.parentElement.style.display='none'">
+            </div>
+          ` : ''}
           <div class="event-header">
             <span class="category-tag ${catClass}">${evt.category}</span>
             <div class="event-date-box">
               <div class="day">${day}</div>
-              <div class="month">${monthStr} ${d.getFullYear()}</div>
+              <div class="month">${monthStr} ${yearStr}</div>
             </div>
           </div>
           <h3 class="event-title">${evt.title}</h3>
@@ -367,6 +419,11 @@ function renderEvents() {
           <a href="${gcalUrl}" target="_blank" class="btn btn-primary" title="Add this event to your Google Calendar">
             <span>📅</span> Add to GCal
           </a>
+          ${evt.ticket_url && evt.ticket_url !== evt.url ? `
+            <a href="${evt.ticket_url}" target="_blank" class="btn btn-secondary" title="Get Tickets">
+              <span>🎟️</span> Tickets
+            </a>
+          ` : ''}
           <button class="btn btn-secondary" onclick="exportSingleIcs('${evt.id}')" title="Download .ics file">
             <span>📥</span> iCal
           </button>

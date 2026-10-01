@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Roig Arena Valencia//Roig Arena & Valencia Basket Events 2.0//EN
+PRODID:-//Roig Arena Valencia//Roig Arena & Valencia Basket Events 3.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Roig Arena Events
@@ -26,13 +26,14 @@ END:STANDARD
 END:VTIMEZONE
 
 BEGIN:VEVENT
-UID:roig-arena-evt-1@roigarena.com
-DTSTAMP:20260727T213839Z
+UID:roig-arena-evt-1-20260731@roigarena.com
+DTSTAMP:20261001T202901Z
 DTSTART;TZID=Europe/Madrid:20260731T210000
 DTEND;TZID=Europe/Madrid:20260731T233000
 SUMMARY:Yandel Sinfónico - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
 DESCRIPTION:Yandel presents Yandel Sinfónico live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+URL:https://www.roigarena.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -42,13 +43,14 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-2@roigarena.com
-DTSTAMP:20260727T213839Z
+UID:roig-arena-evt-2-20260731@roigarena.com
+DTSTAMP:20261001T202901Z
 DTSTART;TZID=Europe/Madrid:20260731T230000
 DTEND;TZID=Europe/Madrid:20260801T030000
 SUMMARY:Las Noches del Arena - Reguetón de Siempre
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
 DESCRIPTION:Las Noches del Arena: Reguetón de Siempre live performance.\nhttps://www.roigarena.com/
+URL:https://www.roigarena.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -58,13 +60,14 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-3@roigarena.com
-DTSTAMP:20260727T213839Z
+UID:roig-arena-evt-3-20260815@roigarena.com
+DTSTAMP:20261001T202901Z
 DTSTART;TZID=Europe/Madrid:20260815T200000
 DTEND;TZID=Europe/Madrid:20260815T223000
 SUMMARY:Mumiy Troll Live - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
 DESCRIPTION:Mumiy Troll live in concert at Roig Arena Valencia.\nhttps://www.roigarena.com/
+URL:https://www.roigarena.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -74,13 +77,14 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-4@roigarena.com
-DTSTAMP:20260727T213839Z
+UID:roig-arena-evt-4-20260820@roigarena.com
+DTSTAMP:20261001T202901Z
 DTSTART;TZID=Europe/Madrid:20260820T210000
 DTEND;TZID=Europe/Madrid:20260820T233000
 SUMMARY:Judas Priest - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
 DESCRIPTION:Heavy Metal legends Judas Priest performing live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+URL:https://www.roigarena.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -90,13 +94,14 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-5@roigarena.com
-DTSTAMP:20260727T213839Z
+UID:roig-arena-evt-5-20260903@roigarena.com
+DTSTAMP:20261001T202901Z
 DTSTART;TZID=Europe/Madrid:20260903T210000
 DTEND;TZID=Europe/Madrid:20260903T233000
 SUMMARY:The Waterboys feat. Steve Earle - Fisherman's Blues Revue
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
 DESCRIPTION:The Waterboys present Fisherman's Blues Revue featuring Steve Earle live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+URL:https://www.roigarena.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -106,13 +111,14 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-6@roigarena.com
-DTSTAMP:20260727T213839Z
+UID:roig-arena-evt-6-20260904@roigarena.com
+DTSTAMP:20261001T202901Z
 DTSTART;TZID=Europe/Madrid:20260904T210000
 DTEND;TZID=Europe/Madrid:20260904T233000
 SUMMARY:La Oreja de Van Gogh - Tantas Cosas Que Contar Tour (Day 1)
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
 DESCRIPTION:La Oreja de Van Gogh live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+URL:https://www.roigarena.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -122,13 +128,14 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-7@roigarena.com
-DTSTAMP:20260727T213839Z
+UID:roig-arena-evt-7-20260905@roigarena.com
+DTSTAMP:20261001T202901Z
 DTSTART;TZID=Europe/Madrid:20260905T210000
 DTEND;TZID=Europe/Madrid:20260905T233000
 SUMMARY:La Oreja de Van Gogh - Tantas Cosas Que Contar Tour (Day 2)
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
 DESCRIPTION:La Oreja de Van Gogh live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+URL:https://www.roigarena.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -138,13 +145,14 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-8@roigarena.com
-DTSTAMP:20260727T213839Z
+UID:roig-arena-evt-8-20260906@roigarena.com
+DTSTAMP:20261001T202901Z
 DTSTART;TZID=Europe/Madrid:20260906T200000
 DTEND;TZID=Europe/Madrid:20260906T223000
 SUMMARY:El Kuelgue - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
 DESCRIPTION:El Kuelgue live in concert at Roig Arena Valencia.\nhttps://www.roigarena.com/
+URL:https://www.roigarena.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -154,141 +162,1952 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-9@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20260927T183000
-DTEND;TZID=Europe/Madrid:20260927T203000
-SUMMARY:Valencia Basket vs FC Barcelona (Liga Endesa Opener)
+UID:roig-arena-evt-9-20261007@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261007T200000
+DTEND;TZID=Europe/Madrid:20261007T223000
+SUMMARY:Valencia Basket vs Meins Avenida - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Liga Endesa 2026-2027 season opener at Roig Arena Valencia.\nhttps://www.valenciabasket.com/
+DESCRIPTION:Valencia Basket vs Meins Avenida live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/valencia-basket-vs-meins-20261007/\nTickets: https://tickets.oneboxtds.com/entradas-valenciabasket/select/2998572?hl=es-ES\n\nOfficial Fixture Info: Official Valencia Basket (Femenino) fixture: Valencia BC vs Meins Avenida.\nCompetition: Liga Femenina Endesa / J2\nVenue: Roig Arena Valencia\nTickets: https://tickets.oneboxtds.com/entradas-vip-valenciabasket/select/2998572?hl=es-ES
+URL:https://www.roigarena.com/es/event/valencia-basket-vs-meins-20261007/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket vs FC Barcelona (Liga Endesa Opener) starting in 4 hours!
+DESCRIPTION:Reminder: Valencia Basket vs Meins Avenida - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-10@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20261009T191500
-DTEND;TZID=Europe/Madrid:20261009T211500
-SUMMARY:Valencia Basket Femení vs Perfumerías Avenida (LF Endesa)
+UID:roig-arena-evt-10-20261008@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261008T203000
+DTEND;TZID=Europe/Madrid:20261008T220000
+SUMMARY:Festival Vallenato - Binomio de Oro - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Liga Femenina Endesa fixture at Roig Arena Valencia.\nhttps://www.valenciabasket.com/
+DESCRIPTION:Festival Vallenato - Binomio de Oro live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/binomio-de-oro-20261008/\nTickets: https://entradaselite.com/producto/valencia-el-binomio-de-oro-de-america/
+URL:https://www.roigarena.com/es/event/binomio-de-oro-20261008/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket Femení vs Perfumerías Avenida (LF Endesa) starting in 4 hours!
+DESCRIPTION:Reminder: Festival Vallenato - Binomio de Oro - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-11@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20261018T183000
-DTEND;TZID=Europe/Madrid:20261018T203000
-SUMMARY:Valencia Basket vs Real Madrid (Liga Endesa)
+UID:roig-arena-evt-11-20261008@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261008T203000
+DTEND;TZID=Europe/Madrid:20261008T220000
+SUMMARY:Valencia Basket vs Hapoel IBI Tel Aviv - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Valencia Basket vs Real Madrid regular season fixture at Roig Arena.\nhttps://www.valenciabasket.com/
+DESCRIPTION:Valencia Basket vs Hapoel IBI Tel Aviv live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/valencia-basket-vs-hapoel-20261008/\nTickets: https://www.valenciabasket.com/entradas-hapoel\n\nOfficial Fixture Info: Official Valencia Basket (Masculino) fixture: Valencia Basket vs Hapoel IBI Tel Aviv.\nCompetition: EuroLeague / J4\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.roigarena.com/es/event/valencia-basket-vs-hapoel-20261008/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket vs Real Madrid (Liga Endesa) starting in 4 hours!
+DESCRIPTION:Reminder: Valencia Basket vs Hapoel IBI Tel Aviv - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-12@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20261029T203000
-DTEND;TZID=Europe/Madrid:20261029T223000
-SUMMARY:Valencia Basket vs FC Barcelona (EuroLeague)
+UID:roig-arena-evt-12-20261009@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261009T200000
+DTEND;TZID=Europe/Madrid:20261009T223000
+SUMMARY:Europe Tour 2026 - Little Big - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Valencia Basket vs FC Barcelona EuroLeague fixture at Roig Arena.\nhttps://www.valenciabasket.com/
+DESCRIPTION:Europe Tour 2026 - Little Big live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/little-big-20261009/\nTickets: https://ticketshop.store/en/events/107565
+URL:https://www.roigarena.com/es/event/little-big-20261009/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket vs FC Barcelona (EuroLeague) starting in 4 hours!
+DESCRIPTION:Reminder: Europe Tour 2026 - Little Big - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-13@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20261108T210000
-DTEND;TZID=Europe/Madrid:20261108T233000
-SUMMARY:Bryan Adams - Roll With The Punches Tour
+UID:roig-arena-evt-13-20261009@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261009T203000
+DTEND;TZID=Europe/Madrid:20261009T220000
+SUMMARY:Gira de vuelta Canciones de ida - Vetusta Morla - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Bryan Adams live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+DESCRIPTION:Gira de vuelta Canciones de ida - Vetusta Morla live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/vetusta-morla-2026-gira-de-vuelta-canciones-de-ida-20261009/\nTickets: https://my.weezevent.com/vetusta-morla-2026-valencia-roig-arena
+URL:https://www.roigarena.com/es/event/vetusta-morla-2026-gira-de-vuelta-canciones-de-ida-20261009/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Bryan Adams - Roll With The Punches Tour starting in 4 hours!
+DESCRIPTION:Reminder: Gira de vuelta Canciones de ida - Vetusta Morla - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-14@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20261119T204500
-DTEND;TZID=Europe/Madrid:20261119T224500
-SUMMARY:Valencia Basket vs Panathinaikos AKTOR (EuroLeague)
+UID:roig-arena-evt-14-20261010@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261010T200000
+DTEND;TZID=Europe/Madrid:20261010T223000
+SUMMARY:Mercury World Tour '26 - Morgenshtern - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:EuroLeague regular season match vs Panathinaikos at Roig Arena.\nhttps://www.valenciabasket.com/
+DESCRIPTION:Mercury World Tour '26 - Morgenshtern live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/morgenshtern-20261010/\nTickets: https://ticketshop.store/en/events/107453
+URL:https://www.roigarena.com/es/event/morgenshtern-20261010/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket vs Panathinaikos AKTOR (EuroLeague) starting in 4 hours!
+DESCRIPTION:Reminder: Mercury World Tour '26 - Morgenshtern - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-15@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20261220T183000
-DTEND;TZID=Europe/Madrid:20261220T203000
-SUMMARY:Valencia Basket vs Unicaja Málaga (Liga Endesa)
+UID:roig-arena-evt-15-20261010@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261010T210000
+DTEND;TZID=Europe/Madrid:20261010T233000
+SUMMARY:25 p*t*s años - Dani Martín - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Liga Endesa regular season fixture vs Unicaja Málaga at Roig Arena.\nhttps://www.valenciabasket.com/
+DESCRIPTION:25 p*t*s años - Dani Martín live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/dani-martin-20261010/\nTickets: https://www.elcorteingles.es/entradas/conciertos/entradas-dani-martin-gira-25-p-t-s-anos-valencia/
+URL:https://www.roigarena.com/es/event/dani-martin-20261010/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket vs Unicaja Málaga (Liga Endesa) starting in 4 hours!
+DESCRIPTION:Reminder: 25 p*t*s años - Dani Martín - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-16@roigarena.com
-DTSTAMP:20260727T213839Z
+UID:roig-arena-evt-16-20261011@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261011T193000
+DTEND;TZID=Europe/Madrid:20261011T210000
+SUMMARY:Domination Tour 2026 - Primal Fear - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Domination Tour 2026 - Primal Fear live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/primal-fear-20261011/\nTickets: https://www.getrock.es/conciertos/primal-fear/valencia-2026
+URL:https://www.roigarena.com/es/event/primal-fear-20261011/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Domination Tour 2026 - Primal Fear - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-17-20261011@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261011T210000
+DTEND;TZID=Europe/Madrid:20261011T233000
+SUMMARY:25 p*t*s años - Dani Martín - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:25 p*t*s años - Dani Martín live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/dani-martin-20261011/\nTickets: https://www.elcorteingles.es/entradas/conciertos/entradas-dani-martin-gira-25-p-t-s-anos-valen-11-10-26-valencia/
+URL:https://www.roigarena.com/es/event/dani-martin-20261011/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 25 p*t*s años - Dani Martín - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-18-20261012@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261012T210000
+DTEND;TZID=Europe/Madrid:20261012T233000
+SUMMARY:El Vendedor de Rosas Tour - Raúl Clyde - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:El Vendedor de Rosas Tour - Raúl Clyde live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/raul-clyde-el-vendedor-de-rosas-tour-20261012/\nTickets: https://www.ticketmaster.es/event/raul-clyde-entradas/877359209
+URL:https://www.roigarena.com/es/event/raul-clyde-el-vendedor-de-rosas-tour-20261012/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: El Vendedor de Rosas Tour - Raúl Clyde - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-19-20261013@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261013T210000
+DTEND;TZID=Europe/Madrid:20261013T233000
+SUMMARY:Valencia Basket vs Olympiacos Piraeus - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Valencia Basket vs Olympiacos Piraeus live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/valencia-basket-vs-olympiacos-20261013/\nTickets: https://www.valenciabasket.com/entradas-vs-olympiacos-piraeus\n\nOfficial Fixture Info: Official Valencia Basket (Masculino) fixture: Valencia Basket vs Olympiacos Piraeus.\nCompetition: EuroLeague / J5\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.roigarena.com/es/event/valencia-basket-vs-olympiacos-20261013/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Olympiacos Piraeus - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-20-20261014@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261014T200000
+DTEND;TZID=Europe/Madrid:20261014T223000
+SUMMARY:Valencia Basket vs Fenerbahce Opet - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Valencia Basket vs Fenerbahce Opet live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/valencia-basket-vs-fenerbahce-20261014/\nTickets: https://tickets.oneboxtds.com/entradas-valenciabasket/select/3003103?hl=es-ES\n\nOfficial Fixture Info: Official Valencia Basket (Femenino) fixture: Valencia BC vs Fenerbahce Opet.\nCompetition: EuroLeague Women / J1\nVenue: Roig Arena Valencia\nTickets: https://tickets.oneboxtds.com/entradas-vip-valenciabasket/select/3003103?hl=es-ES
+URL:https://www.roigarena.com/es/event/valencia-basket-vs-fenerbahce-20261014/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Fenerbahce Opet - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-21-20261015@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261015T203000
+DTEND;TZID=Europe/Madrid:20261015T220000
+SUMMARY:Valencia Basket vs Maccabi Rapyd Tel Aviv - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Valencia Basket vs Maccabi Rapyd Tel Aviv live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/valencia-basket-vs-maccabi-20261015/\nTickets: https://www.valenciabasket.com/entradas-vs-maccabi\n\nOfficial Fixture Info: Official Valencia Basket (Masculino) fixture: Valencia Basket vs Maccabi Rapyd Tel Aviv.\nCompetition: EuroLeague / J6\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.roigarena.com/es/event/valencia-basket-vs-maccabi-20261015/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Maccabi Rapyd Tel Aviv - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-22-20261015@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261015T210000
+DTEND;TZID=Europe/Madrid:20261015T233000
+SUMMARY:Leoni Torres - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Leoni Torres live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/leonni-torres-en-valencia-20261015/\nTickets: https://innovaeventos.es/evento/leoni-torres-en-valencia-2026-15-de-octubre/
+URL:https://www.roigarena.com/es/event/leonni-torres-en-valencia-20261015/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Leoni Torres - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-23-20261016@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261016T210000
+DTEND;TZID=Europe/Madrid:20261016T233000
+SUMMARY:La Gira de Mr. Bond - Melon Diesel - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:La Gira de Mr. Bond - Melon Diesel live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/melon-diesel-gira-mr-bond-20261016/
+URL:https://www.roigarena.com/es/event/melon-diesel-gira-mr-bond-20261016/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: La Gira de Mr. Bond - Melon Diesel - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-24-20261016@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261016T210000
+DTEND;TZID=Europe/Madrid:20261016T233000
+SUMMARY:Gira Taracá - Jorge Drexler - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Gira Taracá - Jorge Drexler live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/jorge-drexler-en-valencia-20261016/
+URL:https://www.roigarena.com/es/event/jorge-drexler-en-valencia-20261016/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Gira Taracá - Jorge Drexler - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-25-20261017@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261017T210000
+DTEND;TZID=Europe/Madrid:20261017T233000
+SUMMARY:El día H - Homenaje a Héroes del Silencio - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:El día H - Homenaje a Héroes del Silencio live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/heroes-el-culto-el-dia-h-20261017/\nTickets: https://www.gazpatxofestcultura.com/eventos/dia-h-roig-arena
+URL:https://www.roigarena.com/es/event/heroes-el-culto-el-dia-h-20261017/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: El día H - Homenaje a Héroes del Silencio - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-26-20261017@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261017T210000
+DTEND;TZID=Europe/Madrid:20261017T233000
+SUMMARY:La Gira de tu Vida - Antonio Orozco - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:La Gira de tu Vida - Antonio Orozco live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/antonio-orozco-20261017/
+URL:https://www.roigarena.com/es/event/antonio-orozco-20261017/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: La Gira de tu Vida - Antonio Orozco - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-27-20261018@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261018T121500
+DTEND;TZID=Europe/Madrid:20261018T144500
+SUMMARY:Valencia Basket vs Baxi Ferrol - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Valencia Basket vs Baxi Ferrol live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/valencia-basket-vs-baxi-20261018/\nTickets: https://tickets.oneboxtds.com/entradas-valenciabasket/select/3004511?hl=es-ES\n\nOfficial Fixture Info: Official Valencia Basket (Femenino) fixture: Valencia BC vs Baxi Ferrol.\nCompetition: Liga Femenina Endesa / J4\nVenue: Roig Arena Valencia\nTickets: https://tickets.oneboxtds.com/entradas-vip-valenciabasket/select/3004511?hl=es-ES
+URL:https://www.roigarena.com/es/event/valencia-basket-vs-baxi-20261018/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Baxi Ferrol - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-28-20261018@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261018T170000
+DTEND;TZID=Europe/Madrid:20261018T193000
+SUMMARY:Valencia Basket vs UCAM Murcia - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Valencia Basket vs UCAM Murcia live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/valencia-basket-vs-ucam-20261018/\nTickets: https://tickets.oneboxtds.com/entradas-valenciabasket/select/3003841?hl=es-ES\n\nOfficial Fixture Info: Official Valencia Basket (Masculino) fixture: Valencia Basket vs UCAM Murcia.\nCompetition: Liga Endesa / J4\nVenue: Roig Arena Valencia\nTickets: https://tickets.oneboxtds.com/entradas-vip-valenciabasket/select/3003841?hl=es-ES
+URL:https://www.roigarena.com/es/event/valencia-basket-vs-ucam-20261018/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs UCAM Murcia - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-29-20261023@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261023T200000
+DTEND;TZID=Europe/Madrid:20261023T223000
+SUMMARY:Ya es mañana Tour - Morat - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Ya es mañana Tour - Morat live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/morat-2026-20261023/
+URL:https://www.roigarena.com/es/event/morat-2026-20261023/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ya es mañana Tour - Morat - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-30-20261023@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261023T220000
+DTEND;TZID=Europe/Madrid:20261024T003000
+SUMMARY:Beatles Monumental - La Banda del Late Motiv - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Beatles Monumental - La Banda del Late Motiv live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/beatles-monumental-con-la-banda-del-late-motiv-20261023/
+URL:https://www.roigarena.com/es/event/beatles-monumental-con-la-banda-del-late-motiv-20261023/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Beatles Monumental - La Banda del Late Motiv - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-31-20261024@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261024T160000
+DTEND;TZID=Europe/Madrid:20261024T183000
+SUMMARY:Aaron Sevilla - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Aaron Sevilla live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/Aaron-sevilla-20261026/
+URL:https://www.roigarena.com/es/event/Aaron-sevilla-20261026/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Aaron Sevilla - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-32-20261024@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261024T210000
+DTEND;TZID=Europe/Madrid:20261024T233000
+SUMMARY:Lia Kali final de gira Kaelis 2.0 - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Lia Kali final de gira Kaelis 2.0 live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/lia-kali-20261024/\nTickets: https://dice.fm/event/2wam36-lia-kali-24th-oct-roig-arena-valencia-tickets
+URL:https://www.roigarena.com/es/event/lia-kali-20261024/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Lia Kali final de gira Kaelis 2.0 - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-33-20261025@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261025T170000
+DTEND;TZID=Europe/Madrid:20261025T190000
+SUMMARY:Valencia Basket vs Kosner Baskonia (Liga Endesa / J5)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Kosner Baskonia.\nCompetition: Liga Endesa / J5\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Kosner Baskonia (Liga Endesa / J5) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-34-20261025@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261025T210000
+DTEND;TZID=Europe/Madrid:20261025T233000
+SUMMARY:No te va gustar - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:No te va gustar live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/no-te-va-a-gustar-20261025/\nTickets: https://dice.fm/event/7dqkkb-no-te-va-gustar-25th-oct-roig-arena-valencia-tickets
+URL:https://www.roigarena.com/es/event/no-te-va-a-gustar-20261025/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: No te va gustar - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-35-20261027@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261027T203000
+DTEND;TZID=Europe/Madrid:20261027T223000
+SUMMARY:Valencia Basket vs Fenerbahce Tarfin Istanbul (EuroLeague / J8)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Fenerbahce Tarfin Istanbul.\nCompetition: EuroLeague / J8\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Fenerbahce Tarfin Istanbul (EuroLeague / J8) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-36-20261028@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261028T200000
+DTEND;TZID=Europe/Madrid:20261028T220000
+SUMMARY:Valencia BC vs CS Rapid Bucuresti (EuroLeague Women / J3)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs CS Rapid Bucuresti.\nCompetition: EuroLeague Women / J3\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs CS Rapid Bucuresti (EuroLeague Women / J3) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-37-20261029@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261029T210000
+DTEND;TZID=Europe/Madrid:20261029T233000
+SUMMARY:Que Tin y Que Tan - Nanpa Básico - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Que Tin y Que Tan - Nanpa Básico live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/nanpa-basico-20261029/\nTickets: https://feverup.com/m/601753
+URL:https://www.roigarena.com/es/event/nanpa-basico-20261029/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Que Tin y Que Tan - Nanpa Básico - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-38-20261030@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261030T200000
+DTEND;TZID=Europe/Madrid:20261030T223000
+SUMMARY:Tot s'acaba - La Fúmiga - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Tot s'acaba - La Fúmiga live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/la-fumiga-tot-s-acaba-20251030/
+URL:https://www.roigarena.com/es/event/la-fumiga-tot-s-acaba-20251030/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Tot s'acaba - La Fúmiga - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-39-20261031@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261031T200000
+DTEND;TZID=Europe/Madrid:20261031T223000
+SUMMARY:Tot s'acaba - La Fúmiga - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Tot s'acaba - La Fúmiga live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/la-fumiga-tot-s-acaba-20261024/
+URL:https://www.roigarena.com/es/event/la-fumiga-tot-s-acaba-20261024/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Tot s'acaba - La Fúmiga - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-40-20261101@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261101T121500
+DTEND;TZID=Europe/Madrid:20261101T141500
+SUMMARY:Valencia BC vs Celta Femxa Zorka (Liga Femenina Endesa / J6)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Celta Femxa Zorka.\nCompetition: Liga Femenina Endesa / J6\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Celta Femxa Zorka (Liga Femenina Endesa / J6) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-41-20261105@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261105T210000
+DTEND;TZID=Europe/Madrid:20261105T233000
+SUMMARY:This is Michael - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:This is Michael live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/this-is-michael-valencia-20261105/\nTickets: https://www.enterticket.com/events/this-is-michael-en-valencia-714718
+URL:https://www.roigarena.com/es/event/this-is-michael-valencia-20261105/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: This is Michael - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-42-20261107@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261107T150000
+DTEND;TZID=Europe/Madrid:20261107T173000
+SUMMARY:House Arena - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:House Arena live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/house-arena-20261107/
+URL:https://www.roigarena.com/es/event/house-arena-20261107/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: House Arena - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-43-20261107@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261107T210000
+DTEND;TZID=Europe/Madrid:20261107T233000
+SUMMARY:La Tormenta Perfecta Tour - Shinova - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:La Tormenta Perfecta Tour - Shinova live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/shinova-20261007/
+URL:https://www.roigarena.com/es/event/shinova-20261007/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: La Tormenta Perfecta Tour - Shinova - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-44-20261108@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261108T200000
+DTEND;TZID=Europe/Madrid:20261108T223000
+SUMMARY:Roll with the punches - Bryan Adams - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Roll with the punches - Bryan Adams live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/bryan-adams-20261108/\nTickets: https://www.ticketvip.es/evento-entradas-bryan-adams-valencia-2026
+URL:https://www.roigarena.com/es/event/bryan-adams-20261108/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Roll with the punches - Bryan Adams - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-45-20261108@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261108T200000
+DTEND;TZID=Europe/Madrid:20261108T223000
+SUMMARY:Servando & Florentino - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Servando & Florentino live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/servando-y-florentino-20261108/\nTickets: https://entradas.roigarena.com/roigarena/select/3010029
+URL:https://www.roigarena.com/es/event/servando-y-florentino-20261108/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Servando & Florentino - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-46-20261112@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261112T203000
+DTEND;TZID=Europe/Madrid:20261112T223000
+SUMMARY:Valencia Basket vs FC Bayern Múnich (EuroLeague / J11)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs FC Bayern Múnich.\nCompetition: EuroLeague / J11\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs FC Bayern Múnich (EuroLeague / J11) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-47-20261112@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261112T210000
+DTEND;TZID=Europe/Madrid:20261112T233000
+SUMMARY:St. Paul & The Broken Bones - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:St. Paul & The Broken Bones live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/st-paul-the-broken-bones-20261112/
+URL:https://www.roigarena.com/es/event/st-paul-the-broken-bones-20261112/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: St. Paul & The Broken Bones - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-48-20261113@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261113T200000
+DTEND;TZID=Europe/Madrid:20261113T223000
+SUMMARY:Raphaelísimo Tour 2026 - Raphael - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Raphaelísimo Tour 2026 - Raphael live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/raphaelisimo-tour-2026-20261113/\nTickets: https://www.ticketvip.es/evento-entradas-raphael-valencia-2026
+URL:https://www.roigarena.com/es/event/raphaelisimo-tour-2026-20261113/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Raphaelísimo Tour 2026 - Raphael - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-49-20261113@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261113T210000
+DTEND;TZID=Europe/Madrid:20261113T233000
+SUMMARY:Ultraswan Tour - Abhir - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Ultraswan Tour - Abhir live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/abhir-20261113/\nTickets: https://www.ticketmaster.es/event/abhir-entradas/1424774329
+URL:https://www.roigarena.com/es/event/abhir-20261113/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ultraswan Tour - Abhir - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-50-20261114@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261114T203000
+DTEND;TZID=Europe/Madrid:20261114T220000
+SUMMARY:Los mejores años de nuestra vida - Hombres G - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Los mejores años de nuestra vida - Hombres G live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/hombres-g-20261114/
+URL:https://www.roigarena.com/es/event/hombres-g-20261114/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Los mejores años de nuestra vida - Hombres G - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-51-20261114@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261114T210000
+DTEND;TZID=Europe/Madrid:20261114T233000
+SUMMARY:Vincen García - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Vincen García live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/vincen-garcia-20261114/\nTickets: https://www.notikumi.com/2026/11/14/pinata-valencia-presenta-vincen-garcia
+URL:https://www.roigarena.com/es/event/vincen-garcia-20261114/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Vincen García - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-52-20261115@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261115T120000
+DTEND;TZID=Europe/Madrid:20261115T140000
+SUMMARY:Valencia Basket vs Leyma Coruña (Liga Endesa / J8)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Leyma Coruña.\nCompetition: Liga Endesa / J8\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Leyma Coruña (Liga Endesa / J8) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-53-20261115@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261115T200000
+DTEND;TZID=Europe/Madrid:20261115T223000
+SUMMARY:El Despecho Tour - Jesse & Joy - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:El Despecho Tour - Jesse & Joy live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/jesse-and-joy-20261115/\nTickets: https://www.notikumi.com/2026/11/15/jesse-and-joy
+URL:https://www.roigarena.com/es/event/jesse-and-joy-20261115/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: El Despecho Tour - Jesse & Joy - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-54-20261119@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261119T210000
+DTEND;TZID=Europe/Madrid:20261119T230000
+SUMMARY:Valencia Basket vs Virtus Bolonia (EuroLeague / J13)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Virtus Bolonia.\nCompetition: EuroLeague / J13\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Virtus Bolonia (EuroLeague / J13) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-55-20261119@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261119T220000
+DTEND;TZID=Europe/Madrid:20261120T003000
+SUMMARY:50 aniversario Orquesta Mondragón - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:50 aniversario Orquesta Mondragón live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/50-aniversario-la-orquesta-mondragon-20261119/\nTickets: https://www.notikumi.com/2026/11/19/50-aniversario-orquesta-mondragon-en-valencia
+URL:https://www.roigarena.com/es/event/50-aniversario-la-orquesta-mondragon-20261119/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 50 aniversario Orquesta Mondragón - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-56-20261120@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261120T210000
+DTEND;TZID=Europe/Madrid:20261120T233000
+SUMMARY:Tour 2026 - Lagos - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Tour 2026 - Lagos live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/lagos-valencia-tour-2026-20261120/\nTickets: https://tickets.oneboxtds.com/lasordera/select/2921855
+URL:https://www.roigarena.com/es/event/lagos-valencia-tour-2026-20261120/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Tour 2026 - Lagos - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-57-20261121@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261121T180000
+DTEND;TZID=Europe/Madrid:20261121T203000
+SUMMARY:WOW FC 34 - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:WOW FC 34 live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/wow-fc-20261121/\nTickets: https://tickets.oneboxtds.com/roigarena/events/60209?hl=es-ES
+URL:https://www.roigarena.com/es/event/wow-fc-20261121/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: WOW FC 34 - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-58-20261121@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261121T210000
+DTEND;TZID=Europe/Madrid:20261121T233000
+SUMMARY:Todas las luces Tour - Santero y los muchachos - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Todas las luces Tour - Santero y los muchachos live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/santero-y-los-muchachos-gira-todas-las-luces-20261121/
+URL:https://www.roigarena.com/es/event/santero-y-los-muchachos-gira-todas-las-luces-20261121/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Todas las luces Tour - Santero y los muchachos - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-59-20261122@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261122T121500
+DTEND;TZID=Europe/Madrid:20261122T141500
+SUMMARY:Valencia BC vs Innova-TSN Leganes (Liga Femenina Endesa / J8)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Innova-TSN Leganes.\nCompetition: Liga Femenina Endesa / J8\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Innova-TSN Leganes (Liga Femenina Endesa / J8) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-60-20261122@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261122T170000
+DTEND;TZID=Europe/Madrid:20261122T190000
+SUMMARY:Valencia Basket vs Río Breogán (Liga Endesa / J9)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Río Breogán.\nCompetition: Liga Endesa / J9\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Río Breogán (Liga Endesa / J9) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-61-20261122@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261122T210000
+DTEND;TZID=Europe/Madrid:20261122T233000
+SUMMARY:Omega 30ª Aniversario - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Omega 30ª Aniversario live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/omega-morente-20261122/\nTickets: https://www.notikumi.com/2026/11/22/pinata-valencia-presenta-omega-30-aniversario
+URL:https://www.roigarena.com/es/event/omega-morente-20261122/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Omega 30ª Aniversario - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-62-20261124@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261124T203000
+DTEND;TZID=Europe/Madrid:20261124T223000
+SUMMARY:Valencia Basket vs Panathinaikos AKTOR Athens (EuroLeague / J14)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Panathinaikos AKTOR Athens.\nCompetition: EuroLeague / J14\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Panathinaikos AKTOR Athens (EuroLeague / J14) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-63-20261126@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261126T210000
+DTEND;TZID=Europe/Madrid:20261126T233000
+SUMMARY:Los Fabulosos Cadillacs en Valencia - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Los Fabulosos Cadillacs en Valencia live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/los-fabulosos-cadillacs-en-valencia-20261126/\nTickets: https://conciertosya.com/Los-Fabulosos-Cadillacs-en-Valencia/
+URL:https://www.roigarena.com/es/event/los-fabulosos-cadillacs-en-valencia-20261126/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Los Fabulosos Cadillacs en Valencia - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-64-20261126@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261126T210000
+DTEND;TZID=Europe/Madrid:20261126T233000
+SUMMARY:Fin de la aventura Tour - Carolina Durante - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Fin de la aventura Tour - Carolina Durante live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/carolina-durante-20261126/\nTickets: https://feverup.com/m/476599
+URL:https://www.roigarena.com/es/event/carolina-durante-20261126/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fin de la aventura Tour - Carolina Durante - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-65-20261127@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261127T184500
+DTEND;TZID=Europe/Madrid:20261127T201500
+SUMMARY:ACCEPT - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:ACCEPT live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/accept-20261127/\nTickets: https://www.getrock.es/conciertos/accept/valencia-2026#tickets
+URL:https://www.roigarena.com/es/event/accept-20261127/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACCEPT - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-66-20261128@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261128T210000
+DTEND;TZID=Europe/Madrid:20261128T233000
+SUMMARY:Mind Enterprises - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Mind Enterprises live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/mind-enterprises-20261128/\nTickets: https://www.enterticket.es/eventos/mind-enterprises-live-en-valencia-auditorio-roig-arena-607235
+URL:https://www.roigarena.com/es/event/mind-enterprises-20261128/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Mind Enterprises - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-67-20261128@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261128T211500
+DTEND;TZID=Europe/Madrid:20261128T234500
+SUMMARY:125 años Iberdrola - Estopa - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:125 años Iberdrola - Estopa live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/125-anos-iberdrola-estopa-roig-arena-20260525/
+URL:https://www.roigarena.com/es/event/125-anos-iberdrola-estopa-roig-arena-20260525/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 125 años Iberdrola - Estopa - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-68-20261129@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261129T121500
+DTEND;TZID=Europe/Madrid:20261129T141500
+SUMMARY:Valencia BC vs Impulso 360 Estepona (Liga Femenina Endesa / J9)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Impulso 360 Estepona.\nCompetition: Liga Femenina Endesa / J9\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Impulso 360 Estepona (Liga Femenina Endesa / J9) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-69-20261205@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261205T210000
+DTEND;TZID=Europe/Madrid:20261205T233000
+SUMMARY:De Pata Negra a Raimundo Amador - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:De Pata Negra a Raimundo Amador live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/raimundoamador-20261205/\nTickets: https://tickets.oneboxtds.com/roigarena/select/2965630?hl=es-ES
+URL:https://www.roigarena.com/es/event/raimundoamador-20261205/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: De Pata Negra a Raimundo Amador - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-70-20261206@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261206T210000
+DTEND;TZID=Europe/Madrid:20261206T233000
+SUMMARY:Niña Pastori - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Niña Pastori live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/nina-pastori-20261206/\nTickets: https://concerttourroig10da.betix.tech/#/open/checkout/product/00-00089tI/event/00-00089s6/show/00-0003dwP
+URL:https://www.roigarena.com/es/event/nina-pastori-20261206/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Niña Pastori - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-71-20261207@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261207T203000
+DTEND;TZID=Europe/Madrid:20261207T220000
+SUMMARY:Nuevas Mutaciones Tour 2026 - Bunbury - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Nuevas Mutaciones Tour 2026 - Bunbury live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/nuevas-mutaciones-tour-2026-20261207/
+URL:https://www.roigarena.com/es/event/nuevas-mutaciones-tour-2026-20261207/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Nuevas Mutaciones Tour 2026 - Bunbury - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-72-20261209@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261209T200000
+DTEND;TZID=Europe/Madrid:20261209T220000
+SUMMARY:Valencia BC vs Mirai Euskotren (Liga Femenina Endesa / J11)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Mirai Euskotren.\nCompetition: Liga Femenina Endesa / J11\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Mirai Euskotren (Liga Femenina Endesa / J11) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-73-20261210@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261210T203000
+DTEND;TZID=Europe/Madrid:20261210T223000
+SUMMARY:Valencia Basket vs Crvena Zvezda Meridianbet Belgrade (EuroLeague / J16)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Crvena Zvezda Meridianbet Belgrade.\nCompetition: EuroLeague / J16\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Crvena Zvezda Meridianbet Belgrade (EuroLeague / J16) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-74-20261210@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261210T210000
+DTEND;TZID=Europe/Madrid:20261210T233000
+SUMMARY:Gira 25 aniversario ¿Qué pides tu? - Alex Ubago - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Gira 25 aniversario ¿Qué pides tu? - Alex Ubago live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/alex-ubago-20261210/\nTickets: https://www.ticketmaster.es/event/alex-ubago-entradas/726163094
+URL:https://www.roigarena.com/es/event/alex-ubago-20261210/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Gira 25 aniversario ¿Qué pides tu? - Alex Ubago - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-75-20261211@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261211T210000
+DTEND;TZID=Europe/Madrid:20261211T233000
+SUMMARY:Love Of Lesbian - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Love Of Lesbian live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/Love-of-lesbian-20261211/\nTickets: https://tickets.oneboxtds.com/roigarena/select/2987259?hl=es-ES
+URL:https://www.roigarena.com/es/event/Love-of-lesbian-20261211/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Love Of Lesbian - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-76-20261211@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261211T210000
+DTEND;TZID=Europe/Madrid:20261211T233000
+SUMMARY:Una mudanza tour - Hens - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Una mudanza tour - Hens live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/hens-20261211/\nTickets: https://www.enterticket.es/es/eventos/concierto-hens-en-valencia-644613
+URL:https://www.roigarena.com/es/event/hens-20261211/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Una mudanza tour - Hens - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-77-20261212@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261212T203000
+DTEND;TZID=Europe/Madrid:20261212T220000
+SUMMARY:Pop Rock Tour - Melendi - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Pop Rock Tour - Melendi live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/melendi-pop-rock-tour-20261212/
+URL:https://www.roigarena.com/es/event/melendi-pop-rock-tour-20261212/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pop Rock Tour - Melendi - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-78-20261212@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261212T210000
+DTEND;TZID=Europe/Madrid:20261212T233000
+SUMMARY:ELLAR - Sofía Ellar - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:ELLAR - Sofía Ellar live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/sofia-ellar-20261212/\nTickets: https://www.notikumi.com/channel/grey-coda-s-l/2026/12/12/concierto-de-sofia-ellar-en-valencia-2026
+URL:https://www.roigarena.com/es/event/sofia-ellar-20261212/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ELLAR - Sofía Ellar - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-79-20261213@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261213T203000
+DTEND;TZID=Europe/Madrid:20261213T220000
+SUMMARY:Pop Rock Tour - Melendi - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Pop Rock Tour - Melendi live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/melendi-pop-rock-tour-20261213/
+URL:https://www.roigarena.com/es/event/melendi-pop-rock-tour-20261213/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pop Rock Tour - Melendi - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-80-20261215@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261215T201500
+DTEND;TZID=Europe/Madrid:20261215T224500
+SUMMARY:The Trouble With The Truth Tour - Macy Gray - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:The Trouble With The Truth Tour - Macy Gray live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/macy-gray-the-trouble-with-the-truth-tour-20261215/\nTickets: https://www.notikumi.com/channel/tranquilo-musica/2026/12/15/macy-gray-the-trouble-with-the-truth-tour
+URL:https://www.roigarena.com/es/event/macy-gray-the-trouble-with-the-truth-tour-20261215/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The Trouble With The Truth Tour - Macy Gray - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-81-20261215@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261215T203000
+DTEND;TZID=Europe/Madrid:20261215T223000
+SUMMARY:Valencia Basket vs Dubai Basketball (EuroLeague / J17)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Dubai Basketball.\nCompetition: EuroLeague / J17\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Dubai Basketball (EuroLeague / J17) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-82-20261218@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261218T180000
+DTEND;TZID=Europe/Madrid:20261218T203000
+SUMMARY:Japan Sound Quest - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Japan Sound Quest live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/japan-sound-quest-20261218/\nTickets: https://tickets.oneboxtds.com/roigarena/select/2924359?hl=es-ES
+URL:https://www.roigarena.com/es/event/japan-sound-quest-20261218/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Japan Sound Quest - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-83-20261219@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261219T170000
+DTEND;TZID=Europe/Madrid:20261219T193000
+SUMMARY:Festival Locos por la Música Valencia 2026 - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Festival Locos por la Música Valencia 2026 live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/locos-por-la-musica-20261219/
+URL:https://www.roigarena.com/es/event/locos-por-la-musica-20261219/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Festival Locos por la Música Valencia 2026 - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-84-20261219@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261219T190000
+DTEND;TZID=Europe/Madrid:20261219T213000
+SUMMARY:¡DESPIERTA! - Toni Pons - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:¡DESPIERTA! - Toni Pons live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/toni-pons-20261219/\nTickets: https://tickets.oneboxtds.com/roigarena/select/2951039?hl=es-ES
+URL:https://www.roigarena.com/es/event/toni-pons-20261219/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ¡DESPIERTA! - Toni Pons - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-85-20261220@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261220T121500
+DTEND;TZID=Europe/Madrid:20261220T141500
+SUMMARY:Valencia BC vs Cadi La Seu (Liga Femenina Endesa / J13)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Cadi La Seu.\nCompetition: Liga Femenina Endesa / J13\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Cadi La Seu (Liga Femenina Endesa / J13) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-86-20261220@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261220T123000
+DTEND;TZID=Europe/Madrid:20261220T143000
+SUMMARY:Valencia Basket vs La Laguna Tenerife (Liga Endesa / J13)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs La Laguna Tenerife.\nCompetition: Liga Endesa / J13\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs La Laguna Tenerife (Liga Endesa / J13) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-87-20261222@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261222T200000
+DTEND;TZID=Europe/Madrid:20261222T220000
+SUMMARY:Valencia BC vs Hozono Global Jairis (Liga Femenina Endesa / J14)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Hozono Global Jairis.\nCompetition: Liga Femenina Endesa / J14\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Hozono Global Jairis (Liga Femenina Endesa / J14) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-88-20261229@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20261229T180000
+DTEND;TZID=Europe/Madrid:20261229T203000
+SUMMARY:Luli Pampín en Valencia - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Luli Pampín en Valencia live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/luli-pampin-en-valencia-20261229/\nTickets: https://www.enterticket.es/eventos/luli-pampin-en-valencia-809272
+URL:https://www.roigarena.com/es/event/luli-pampin-en-valencia-20261229/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Luli Pampín en Valencia - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-89-20270103@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270103T200000
+DTEND;TZID=Europe/Madrid:20270103T220000
+SUMMARY:Valencia BC vs Spar Girona (Liga Femenina Endesa / J16)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Spar Girona.\nCompetition: Liga Femenina Endesa / J16\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Spar Girona (Liga Femenina Endesa / J16) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-90-20270104@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270104T200000
+DTEND;TZID=Europe/Madrid:20270104T220000
+SUMMARY:Valencia Basket vs Real Madrid (Liga Endesa / J15)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Real Madrid.\nCompetition: Liga Endesa / J15\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Real Madrid (Liga Endesa / J15) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-91-20270107@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270107T203000
+DTEND;TZID=Europe/Madrid:20270107T223000
+SUMMARY:Valencia Basket vs Partizan Mozzart Bet Belgrade (EuroLeague / J21)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Partizan Mozzart Bet Belgrade.\nCompetition: EuroLeague / J21\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Partizan Mozzart Bet Belgrade (EuroLeague / J21) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-92-20270108@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270108T210000
+DTEND;TZID=Europe/Madrid:20270108T233000
+SUMMARY:Cupido - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Cupido live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/cupido-en-valencia-20270108/\nTickets: https://www.enterticket.es/eventos/cupido-en-valencia-386218
+URL:https://www.roigarena.com/es/event/cupido-en-valencia-20270108/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Cupido - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-93-20270109@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270109T160000
+DTEND;TZID=Europe/Madrid:20270109T183000
+SUMMARY:Universo Makina Valencia - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Universo Makina Valencia live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/universo-makina-20270109/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3009310?hl=es-ES
+URL:https://www.roigarena.com/es/event/universo-makina-20270109/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Universo Makina Valencia - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-94-20270109@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270109T210000
+DTEND;TZID=Europe/Madrid:20270109T233000
+SUMMARY:VÉRTIGO TOUR - OBK - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:VÉRTIGO TOUR - OBK live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/obk-20270116/\nTickets: https://www.enterticket.es/events/concierto-obk-valencia-auditorio-roig-arena-sabado-9-de-enero-2027-252853
+URL:https://www.roigarena.com/es/event/obk-20270116/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: VÉRTIGO TOUR - OBK - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-95-20270110@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270110T163000
+DTEND;TZID=Europe/Madrid:20270110T183000
+SUMMARY:Valencia Basket vs Surne Bilbao (Liga Endesa / J17)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Surne Bilbao.\nCompetition: Liga Endesa / J17\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Surne Bilbao (Liga Endesa / J17) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-96-20270110@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270110T200000
+DTEND;TZID=Europe/Madrid:20270110T223000
+SUMMARY:Simply The Best - Tina Turner Tribute - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Simply The Best - Tina Turner Tribute live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/tributotinaturner-20270101/\nTickets: https://tickets.oneboxtds.com/roigarena/select/2961802?hl=es-ES
+URL:https://www.roigarena.com/es/event/tributotinaturner-20270101/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Simply The Best - Tina Turner Tribute - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-97-20270114@roigarena.com
+DTSTAMP:20261001T202901Z
 DTSTART;TZID=Europe/Madrid:20270114T203000
-DTEND;TZID=Europe/Madrid:20270114T223000
-SUMMARY:Valencia Basket vs Olympiacos BC (EuroLeague)
+DTEND;TZID=Europe/Madrid:20270114T220000
+SUMMARY:El Día Que Me Olvides Tour - Segunda Fecha - Walls - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:EuroLeague regular season match vs Olympiacos BC at Roig Arena.\nhttps://www.valenciabasket.com/
+DESCRIPTION:El Día Que Me Olvides Tour - Segunda Fecha - Walls live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/walls-en-valencia-20270114/\nTickets: https://www.enterticket.com/events/walls-en-valencia-941893
+URL:https://www.roigarena.com/es/event/walls-en-valencia-20270114/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket vs Olympiacos BC (EuroLeague) starting in 4 hours!
+DESCRIPTION:Reminder: El Día Que Me Olvides Tour - Segunda Fecha - Walls - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-17@roigarena.com
-DTSTAMP:20260727T213839Z
+UID:roig-arena-evt-98-20270115@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270115T203000
+DTEND;TZID=Europe/Madrid:20270115T220000
+SUMMARY:El Día que me olvides Tour - Walls - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:El Día que me olvides Tour - Walls live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/walls-en-valencia-20270115/
+URL:https://www.roigarena.com/es/event/walls-en-valencia-20270115/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: El Día que me olvides Tour - Walls - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-99-20270116@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270116T210000
+DTEND;TZID=Europe/Madrid:20270116T233000
+SUMMARY:Ritorno a la via dalma Tour - Sergio Dalma - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Ritorno a la via dalma Tour - Sergio Dalma live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/sergio-dalma-20270116/\nTickets: https://tickets.oneboxtds.com/girasergiodalma/select/2639757?viewCode=Vista_Principal
+URL:https://www.roigarena.com/es/event/sergio-dalma-20270116/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ritorno a la via dalma Tour - Sergio Dalma - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-100-20270116@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270116T210000
+DTEND;TZID=Europe/Madrid:20270116T233000
+SUMMARY:El Tour Intergaláctico - La La Love You - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:El Tour Intergaláctico - La La Love You live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/la-la-tour-2027-20270116/
+URL:https://www.roigarena.com/es/event/la-la-tour-2027-20270116/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: El Tour Intergaláctico - La La Love You - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-101-20270117@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270117T121500
+DTEND;TZID=Europe/Madrid:20270117T141500
+SUMMARY:Valencia BC vs Azulmarino Mallorca Palma (Liga Femenina Endesa / J18)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Azulmarino Mallorca Palma.\nCompetition: Liga Femenina Endesa / J18\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Azulmarino Mallorca Palma (Liga Femenina Endesa / J18) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-102-20270117@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270117T180000
+DTEND;TZID=Europe/Madrid:20270117T200000
+SUMMARY:Valencia Basket vs MoraBanc Andorra (Liga Endesa / J18)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs MoraBanc Andorra.\nCompetition: Liga Endesa / J18\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs MoraBanc Andorra (Liga Endesa / J18) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-103-20270119@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270119T200000
+DTEND;TZID=Europe/Madrid:20270119T223000
+SUMMARY:Futttura Tour - TINI - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Futttura Tour - TINI live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/tini-futttura-20270119/
+URL:https://www.roigarena.com/es/event/tini-futttura-20270119/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Futttura Tour - TINI - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-104-20270120@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270120T200000
+DTEND;TZID=Europe/Madrid:20270120T223000
+SUMMARY:Futttura Tour - TINI - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Futttura Tour - TINI live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/tini-futttura-20270120/
+URL:https://www.roigarena.com/es/event/tini-futttura-20270120/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Futttura Tour - TINI - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-105-20270122@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270122T203000
+DTEND;TZID=Europe/Madrid:20270122T223000
+SUMMARY:Valencia Basket vs LDLC Asvel Villeurbanne (EuroLeague / J24)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs LDLC Asvel Villeurbanne.\nCompetition: EuroLeague / J24\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs LDLC Asvel Villeurbanne (EuroLeague / J24) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-106-20270122@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270122T210000
+DTEND;TZID=Europe/Madrid:20270122T233000
+SUMMARY:Xoel López - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Xoel López live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/xoel-lopez-20272201/\nTickets: https://tickets.oneboxtds.com/roigarena/events/59866?hl=es-ES
+URL:https://www.roigarena.com/es/event/xoel-lopez-20272201/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Xoel López - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-107-20270123@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270123T210000
+DTEND;TZID=Europe/Madrid:20270123T233000
+SUMMARY:Fin de gira - Carlos Ares - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Fin de gira - Carlos Ares live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/carlos-ares-20270123/
+URL:https://www.roigarena.com/es/event/carlos-ares-20270123/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fin de gira - Carlos Ares - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-108-20270129@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270129T210000
+DTEND;TZID=Europe/Madrid:20270129T233000
+SUMMARY:No quiero hablar de mí, pero yo - Albert Pla - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:No quiero hablar de mí, pero yo - Albert Pla live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/albert-pla-20270129/
+URL:https://www.roigarena.com/es/event/albert-pla-20270129/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: No quiero hablar de mí, pero yo - Albert Pla - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-109-20270130@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270130T200000
+DTEND;TZID=Europe/Madrid:20270130T223000
+SUMMARY:EDITORS - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:EDITORS live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/editors-20270130/
+URL:https://www.roigarena.com/es/event/editors-20270130/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: EDITORS - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-110-20270131@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270131T200000
+DTEND;TZID=Europe/Madrid:20270131T223000
+SUMMARY:Kabrönes - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Kabrönes live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/kabrones-en-valencia-20270131/
+URL:https://www.roigarena.com/es/event/kabrones-en-valencia-20270131/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Kabrönes - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-111-20270131@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270131T203000
+DTEND;TZID=Europe/Madrid:20270131T220000
+SUMMARY:Gira La Calma - El Kanka - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Gira La Calma - El Kanka live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/gira-la-calma-el-kanka-20273101/\nTickets: https://entradas.roigarena.com/roigarena/select/2912939
+URL:https://www.roigarena.com/es/event/gira-la-calma-el-kanka-20273101/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Gira La Calma - El Kanka - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-112-20270203@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270203T204500
+DTEND;TZID=Europe/Madrid:20270203T224500
+SUMMARY:Valencia Basket vs Armani Olimpia Milan (EuroLeague / J26)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Armani Olimpia Milan.\nCompetition: EuroLeague / J26\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Armani Olimpia Milan (EuroLeague / J26) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-113-20270204@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270204T200000
+DTEND;TZID=Europe/Madrid:20270204T220000
+SUMMARY:Valencia BC vs Durán Maquinaria Ensino (Liga Femenina Endesa / J21)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Durán Maquinaria Ensino.\nCompetition: Liga Femenina Endesa / J21\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Durán Maquinaria Ensino (Liga Femenina Endesa / J21) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-114-20270204@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270204T203000
+DTEND;TZID=Europe/Madrid:20270204T220000
+SUMMARY:SB2 Tour Deluxe - Hecky - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:SB2 Tour Deluxe - Hecky live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/hecky-20270204/
+URL:https://www.roigarena.com/es/event/hecky-20270204/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SB2 Tour Deluxe - Hecky - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-115-20270205@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270205T200000
+DTEND;TZID=Europe/Madrid:20270205T223000
+SUMMARY:Niña Polaca - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Niña Polaca live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/nina-polaca-20270205/
+URL:https://www.roigarena.com/es/event/nina-polaca-20270205/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Niña Polaca - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-116-20270205@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270205T204500
+DTEND;TZID=Europe/Madrid:20270205T224500
+SUMMARY:Valencia Basket vs FC Barcelona (EuroLeague / J27)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs FC Barcelona.\nCompetition: EuroLeague / J27\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs FC Barcelona (EuroLeague / J27) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-117-20270206@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270206T203000
+DTEND;TZID=Europe/Madrid:20270206T220000
+SUMMARY:Camisa de fuerza Tour - Kase.O - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Camisa de fuerza Tour - Kase.O live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/KaseO-2027-06022027/\nTickets: https://tickets.oneboxtds.com/roigarena/select/2911286?hl=es-ES
+URL:https://www.roigarena.com/es/event/KaseO-2027-06022027/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Camisa de fuerza Tour - Kase.O - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-118-20270206@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270206T213000
+DTEND;TZID=Europe/Madrid:20270207T230000
+SUMMARY:Raule - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Raule live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/Raule-20270206/
+URL:https://www.roigarena.com/es/event/Raule-20270206/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Raule - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-119-20270207@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270207T180000
+DTEND;TZID=Europe/Madrid:20270207T200000
+SUMMARY:Valencia Basket vs Asisa Joventut (Liga Endesa / J21)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Asisa Joventut.\nCompetition: Liga Endesa / J21\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Asisa Joventut (Liga Endesa / J21) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-120-20270211@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270211T203000
+DTEND;TZID=Europe/Madrid:20270211T223000
+SUMMARY:Valencia Basket vs Paris Basketball (EuroLeague / J28)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Paris Basketball.\nCompetition: EuroLeague / J28\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Paris Basketball (EuroLeague / J28) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-121-20270213@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270213T203000
+DTEND;TZID=Europe/Madrid:20270213T220000
+SUMMARY:La Gira - Hakuna - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:La Gira - Hakuna live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/hakuna-valencia-20270213/\nTickets: https://tickets.oneboxtds.com/roigarena/select/2939973?hl=es-ES
+URL:https://www.roigarena.com/es/event/hakuna-valencia-20270213/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: La Gira - Hakuna - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-122-20270214@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270214T120000
+DTEND;TZID=Europe/Madrid:20270214T140000
+SUMMARY:Valencia Basket vs Casademont Zaragoza (Liga Endesa / J22)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Casademont Zaragoza.\nCompetition: Liga Endesa / J22\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Casademont Zaragoza (Liga Endesa / J22) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-123-20270218@roigarena.com
+DTSTAMP:20261001T202901Z
 DTSTART;TZID=Europe/Madrid:20270218T180000
 DTEND;TZID=Europe/Madrid:20270221T230000
 SUMMARY:Copa del Rey de Baloncesto 2027 (Hosted at Roig Arena)
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
 DESCRIPTION:Official Copa del Rey 2027 tournament host venue at Roig Arena Valencia.\nhttps://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -298,113 +2117,579 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-18@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20270320T180000
-DTEND;TZID=Europe/Madrid:20270320T200000
-SUMMARY:Valencia Basket Femení vs Casademont Zaragoza (LF Endesa)
+UID:roig-arena-evt-124-20270227@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270227T210000
+DTEND;TZID=Europe/Madrid:20270227T233000
+SUMMARY:Gira 2027 Carne con Patatas - Los Zigarros - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Liga Femenina Endesa match at Roig Arena Valencia.\nhttps://www.valenciabasket.com/
+DESCRIPTION:Gira 2027 Carne con Patatas - Los Zigarros live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/los-zigarros-20270227/
+URL:https://www.roigarena.com/es/event/los-zigarros-20270227/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket Femení vs Casademont Zaragoza (LF Endesa) starting in 4 hours!
+DESCRIPTION:Reminder: Gira 2027 Carne con Patatas - Los Zigarros - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-19@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20270409T210000
-DTEND;TZID=Europe/Madrid:20270409T233000
-SUMMARY:Thirty Seconds To Mars - World Tour
+UID:roig-arena-evt-125-20270228@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270228T121500
+DTEND;TZID=Europe/Madrid:20270228T141500
+SUMMARY:Valencia BC vs Inversus Gernika Bizkaia (Liga Femenina Endesa / J23)
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Thirty Seconds To Mars live at Roig Arena Valencia.\nhttps://www.roigarena.com/
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Inversus Gernika Bizkaia.\nCompetition: Liga Femenina Endesa / J23\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Thirty Seconds To Mars - World Tour starting in 4 hours!
+DESCRIPTION:Reminder: Valencia BC vs Inversus Gernika Bizkaia (Liga Femenina Endesa / J23) starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-20@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20270418T183000
-DTEND;TZID=Europe/Madrid:20270418T203000
-SUMMARY:Valencia Basket vs Baskonia (Liga Endesa)
+UID:roig-arena-evt-126-20270304@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270304T203000
+DTEND;TZID=Europe/Madrid:20270304T223000
+SUMMARY:Valencia Basket vs Zalgiris Kaunas (EuroLeague / J29)
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Liga Endesa regular season fixture vs Baskonia at Roig Arena.\nhttps://www.valenciabasket.com/
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Zalgiris Kaunas.\nCompetition: EuroLeague / J29\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket vs Baskonia (Liga Endesa) starting in 4 hours!
+DESCRIPTION:Reminder: Valencia Basket vs Zalgiris Kaunas (EuroLeague / J29) starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-21@roigarena.com
-DTSTAMP:20260727T213839Z
+UID:roig-arena-evt-127-20270312@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270312T100000
+DTEND;TZID=Europe/Madrid:20270321T220000
+SUMMARY:PROJECT B - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:PROJECT B live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/project-b-20270312/
+URL:https://www.roigarena.com/es/event/project-b-20270312/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PROJECT B - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-128-20270313@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270313T210000
+DTEND;TZID=Europe/Madrid:20270313T233000
+SUMMARY:Benito Kamelas - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Benito Kamelas live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/benito-kamelas-20270313/
+URL:https://www.roigarena.com/es/event/benito-kamelas-20270313/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Benito Kamelas - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-129-20270314@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270314T210000
+DTEND;TZID=Europe/Madrid:20270314T233000
+SUMMARY:Squeeze - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Squeeze live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/squeeze-20271403/\nTickets: https://tickets.oneboxtds.com/roigarena/events/59906?hl=es-ES
+URL:https://www.roigarena.com/es/event/squeeze-20271403/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Squeeze - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-130-20270317@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270317T200000
+DTEND;TZID=Europe/Madrid:20270317T220000
+SUMMARY:Valencia BC vs Movistar Estudiantes (Liga Femenina Endesa / J26)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Movistar Estudiantes.\nCompetition: Liga Femenina Endesa / J26\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Movistar Estudiantes (Liga Femenina Endesa / J26) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-131-20270320@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270320T183000
+DTEND;TZID=Europe/Madrid:20270320T203000
+SUMMARY:Valencia BC vs Casademont Zaragoza (Liga Femenina Endesa / J27)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Casademont Zaragoza.\nCompetition: Liga Femenina Endesa / J27\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Casademont Zaragoza (Liga Femenina Endesa / J27) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-132-20270321@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270321T123000
+DTEND;TZID=Europe/Madrid:20270321T143000
+SUMMARY:Valencia Basket vs Recoletas Salud San Pablo Burgos (Liga Endesa / J25)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Recoletas Salud San Pablo Burgos.\nCompetition: Liga Endesa / J25\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Recoletas Salud San Pablo Burgos (Liga Endesa / J25) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-133-20270323@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270323T203000
+DTEND;TZID=Europe/Madrid:20270323T220000
+SUMMARY:Kings of Metal Fighting The World Tour 2027 - Manowar - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Kings of Metal Fighting The World Tour 2027 - Manowar live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/manowar-tour-2027-20270323/
+URL:https://www.roigarena.com/es/event/manowar-tour-2027-20270323/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Kings of Metal Fighting The World Tour 2027 - Manowar - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-134-20270324@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270324T203000
+DTEND;TZID=Europe/Madrid:20270324T223000
+SUMMARY:Valencia Basket vs Besiktas Istanbul (EuroLeague / J33)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Besiktas Istanbul.\nCompetition: EuroLeague / J33\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Besiktas Istanbul (EuroLeague / J33) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-135-20270328@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270328T170000
+DTEND;TZID=Europe/Madrid:20270328T190000
+SUMMARY:Valencia Basket vs Bàsquet Girona (Liga Endesa / J26)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Bàsquet Girona.\nCompetition: Liga Endesa / J26\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Bàsquet Girona (Liga Endesa / J26) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-136-20270401@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270401T203000
+DTEND;TZID=Europe/Madrid:20270401T223000
+SUMMARY:Valencia Basket vs Real Madrid (EuroLeague / J35)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Real Madrid.\nCompetition: EuroLeague / J35\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Real Madrid (EuroLeague / J35) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-137-20270402@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270402T210000
+DTEND;TZID=Europe/Madrid:20270402T233000
+SUMMARY:Anais 2027 Tour - Cano - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Anais 2027 Tour - Cano live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/cano-anais-tour-2027-20270402/\nTickets: https://tickets.oneboxtds.com/roigarena/events/56177?hl=es-ES
+URL:https://www.roigarena.com/es/event/cano-anais-tour-2027-20270402/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anais 2027 Tour - Cano - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-138-20270403@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270403T203000
+DTEND;TZID=Europe/Madrid:20270403T220000
+SUMMARY:Lo que guardas te hace volver Tour - El Barrio - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Lo que guardas te hace volver Tour - El Barrio live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/el-barrio-20270403/\nTickets: https://entradas.roigarena.com/roigarena/select/2904514
+URL:https://www.roigarena.com/es/event/el-barrio-20270403/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Lo que guardas te hace volver Tour - El Barrio - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-139-20270408@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270408T203000
+DTEND;TZID=Europe/Madrid:20270408T223000
+SUMMARY:Valencia Basket vs Anadolu Efes Istanbul (EuroLeague / J37)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Anadolu Efes Istanbul.\nCompetition: EuroLeague / J37\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Anadolu Efes Istanbul (EuroLeague / J37) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-140-20270409@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270409T203000
+DTEND;TZID=Europe/Madrid:20270409T220000
+SUMMARY:A Beautiful Lie vs This Is War - Thirty Seconds to Mars - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:A Beautiful Lie vs This Is War - Thirty Seconds to Mars live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/thirty-seconds-to-mars-20270409/
+URL:https://www.roigarena.com/es/event/thirty-seconds-to-mars-20270409/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: A Beautiful Lie vs This Is War - Thirty Seconds to Mars - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-141-20270411@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270411T121500
+DTEND;TZID=Europe/Madrid:20270411T141500
+SUMMARY:Valencia BC vs Kutxabank Araski (Liga Femenina Endesa / J29)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Kutxabank Araski.\nCompetition: Liga Femenina Endesa / J29\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Kutxabank Araski (Liga Femenina Endesa / J29) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-142-20270411@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270411T180000
+DTEND;TZID=Europe/Madrid:20270411T200000
+SUMMARY:Valencia Basket vs Monbus Obradoiro (Liga Endesa / J28)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Monbus Obradoiro.\nCompetition: Liga Endesa / J28\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs Monbus Obradoiro (Liga Endesa / J28) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-143-20270417@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270417T210000
+DTEND;TZID=Europe/Madrid:20270417T233000
+SUMMARY:Anunciado en Televisión - Pignoise - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Anunciado en Televisión - Pignoise live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/pignoise-valencia-20270417/
+URL:https://www.roigarena.com/es/event/pignoise-valencia-20270417/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anunciado en Televisión - Pignoise - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-144-20270424@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270424T210000
+DTEND;TZID=Europe/Madrid:20270424T233000
+SUMMARY:Pasado, presente y futuro - Bombai - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Pasado, presente y futuro - Bombai live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/bombai-en-valencia-20270424/
+URL:https://www.roigarena.com/es/event/bombai-en-valencia-20270424/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pasado, presente y futuro - Bombai - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-145-20270425@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270425T190000
+DTEND;TZID=Europe/Madrid:20270425T210000
+SUMMARY:Valencia Basket vs FC Barcelona (Liga Endesa / J30)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs FC Barcelona.\nCompetition: Liga Endesa / J30\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia Basket vs FC Barcelona (Liga Endesa / J30) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-146-20270501@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270501T210000
+DTEND;TZID=Europe/Madrid:20270501T233000
+SUMMARY:Seguridad Social y Amigos - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Seguridad Social y Amigos live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/seguridad-social-20270501/
+URL:https://www.roigarena.com/es/event/seguridad-social-20270501/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Seguridad Social y Amigos - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-147-20270508@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270508T213000
+DTEND;TZID=Europe/Madrid:20270509T230000
+SUMMARY:Los Invaders - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Los Invaders live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/Los-invaders-20270805/\nTickets: https://tickets.oneboxtds.com/roigarena/select/2988081?hl=es-ES
+URL:https://www.roigarena.com/es/event/Los-invaders-20270805/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Los Invaders - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-148-20270510@roigarena.com
+DTSTAMP:20261001T202901Z
 DTSTART;TZID=Europe/Madrid:20270510T200000
-DTEND;TZID=Europe/Madrid:20270510T230000
-SUMMARY:Hans Zimmer Live - The Next Level
+DTEND;TZID=Europe/Madrid:20270510T223000
+SUMMARY:The World of Hans Zimmer A New Dimension - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Hans Zimmer live in concert at Roig Arena Valencia featuring full orchestra.\nhttps://www.roigarena.com/
+DESCRIPTION:The World of Hans Zimmer A New Dimension live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/the-world-of-hans-zimmer-a-new-dimension-20270510/
+URL:https://www.roigarena.com/es/event/the-world-of-hans-zimmer-a-new-dimension-20270510/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Hans Zimmer Live - The Next Level starting in 4 hours!
+DESCRIPTION:Reminder: The World of Hans Zimmer A New Dimension - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-22@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20260815T180000
-DTEND;TZID=Europe/Madrid:20260815T180000
-SUMMARY:Mumiy Troll - Roig Arena
+UID:roig-arena-evt-149-20270522@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270522T210000
+DTEND;TZID=Europe/Madrid:20270522T233000
+SUMMARY:Tour Eternos - David Bisbal - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Event scraped live from Roig Arena official schedule.\nhttps://www.roigarena.com/
+DESCRIPTION:Tour Eternos - David Bisbal live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/david-bisbal-20270522/
+URL:https://www.roigarena.com/es/event/david-bisbal-20270522/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Mumiy Troll - Roig Arena starting in 4 hours!
+DESCRIPTION:Reminder: Tour Eternos - David Bisbal - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-23@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20260903T190000
-DTEND;TZID=Europe/Madrid:20260903T190000
-SUMMARY:Fisherman’s Blues Revue featuring Steve Earle - The Waterboys - Roig Arena
+UID:roig-arena-evt-150-20270523@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270523T210000
+DTEND;TZID=Europe/Madrid:20270523T233000
+SUMMARY:Tour “A Flor do Recomeço” - Salvador Sobral - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Event scraped live from Roig Arena official schedule.\nhttps://www.roigarena.com/
+DESCRIPTION:Tour “A Flor do Recomeço” - Salvador Sobral live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/salvador-sobral-tour-a-flor-do-recomeco-20270523/
+URL:https://www.roigarena.com/es/event/salvador-sobral-tour-a-flor-do-recomeco-20270523/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Fisherman’s Blues Revue featuring Steve Earle - The Waterboys - Roig Arena starting in 4 hours!
+DESCRIPTION:Reminder: Tour “A Flor do Recomeço” - Salvador Sobral - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-24@roigarena.com
-DTSTAMP:20260727T213839Z
-DTSTART;TZID=Europe/Madrid:20260904T190000
-DTEND;TZID=Europe/Madrid:20260904T190000
-SUMMARY:Tantas cosas que contar Tour 2026 - La Oreja de Van Gogh - Roig Arena
+UID:roig-arena-evt-151-20270523@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270523T210000
+DTEND;TZID=Europe/Madrid:20270523T233000
+SUMMARY:D. Valentino - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Event scraped live from Roig Arena official schedule.\nhttps://www.roigarena.com/
+DESCRIPTION:D. Valentino live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/d-valentino-en-valencia-20270523/
+URL:https://www.roigarena.com/es/event/d-valentino-en-valencia-20270523/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Tantas cosas que contar Tour 2026 - La Oreja de Van Gogh - Roig Arena starting in 4 hours!
+DESCRIPTION:Reminder: D. Valentino - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-152-20270527@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270527T210000
+DTEND;TZID=Europe/Madrid:20270527T233000
+SUMMARY:Pablo López - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Pablo López live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/Pablo-lopez-20270527/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3019952?hl=es-ES
+URL:https://www.roigarena.com/es/event/Pablo-lopez-20270527/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pablo López - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-153-20270605@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270605T200000
+DTEND;TZID=Europe/Madrid:20270605T223000
+SUMMARY:80sEnEspañol - MESCALINA - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:80sEnEspañol - MESCALINA live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/mescalina-20270605/\nTickets: https://tickets.oneboxtds.com/roigarena/select/2955547?hl=es-ES
+URL:https://www.roigarena.com/es/event/mescalina-20270605/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 80sEnEspañol - MESCALINA - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-154-20270924@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20270924T200000
+DTEND;TZID=Europe/Madrid:20270924T223000
+SUMMARY:Deacon Blue - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Deacon Blue live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/deacon-blue-20270924/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3015634?hl=es-ES
+URL:https://www.roigarena.com/es/event/deacon-blue-20270924/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Deacon Blue - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-155-20271009@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20271009T200000
+DTEND;TZID=Europe/Madrid:20271009T223000
+SUMMARY:Siloé - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Siloé live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/20271009-siloe/
+URL:https://www.roigarena.com/es/event/20271009-siloe/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Siloé - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-156-20271031@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20271031T200000
+DTEND;TZID=Europe/Madrid:20271031T223000
+SUMMARY:World Tour 2026/27 - Il Volo - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:World Tour 2026/27 - Il Volo live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/il-volo-world-tour-2026-2027-20271031/
+URL:https://www.roigarena.com/es/event/il-volo-world-tour-2026-2027-20271031/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: World Tour 2026/27 - Il Volo - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-157-20280426@roigarena.com
+DTSTAMP:20261001T202901Z
+DTSTART;TZID=Europe/Madrid:20280426T203000
+DTEND;TZID=Europe/Madrid:20280426T220000
+SUMMARY:Una Historia Importante Tour - Eros Ramazzotti - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Una Historia Importante Tour - Eros Ramazzotti live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/eros-ramazzotti-20280426/
+URL:https://www.roigarena.com/es/event/eros-ramazzotti-20280426/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Una Historia Importante Tour - Eros Ramazzotti - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
