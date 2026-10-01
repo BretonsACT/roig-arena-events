@@ -250,8 +250,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function getIcsHttpUrl() {
   const loc = window.location;
-  if (loc.protocol === 'file:') {
-    return 'https://roigarena.events/Roig_Arena_Events.ics';
+  if (loc.protocol === 'file:' || !loc.host.includes('github.io')) {
+    return 'https://bretonsact.github.io/roig-arena-events/Roig_Arena_Events.ics';
   }
   const basePath = loc.pathname.substring(0, loc.pathname.lastIndexOf('/') + 1);
   return `${loc.protocol}//${loc.host}${basePath}Roig_Arena_Events.ics`;
