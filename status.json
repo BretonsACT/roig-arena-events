@@ -1,18 +1,18 @@
 {
   "status": "success",
-  "last_updated": "2026-10-01T21:35:34.122030",
-  "total_events": 157,
+  "last_updated": "2026-10-05T13:44:08.631537",
+  "total_events": 158,
   "all_three_webs_verified": true,
   "categories": {
-    "Concert": 103,
+    "Concert": 104,
     "Party": 3,
     "Sports": 51
   },
   "sources": {
     "roigarena_catalog": {
       "url": "https://www.roigarena.com/es/eventos/",
-      "scraped_count": 106,
-      "included_count": 106,
+      "scraped_count": 107,
+      "included_count": 107,
       "coverage_pct": 100.0
     },
     "roigarena_home": {

@@ -490,12 +490,12 @@
     "summary": "Aaron Sevilla - Roig Arena",
     "title": "Aaron Sevilla",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Aaron Sevilla live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/Aaron-sevilla-20261026/",
+    "description": "Aaron Sevilla live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/Aaron-sevilla-20261026/\nTickets: https://app.afrodisemusic.com/tickets-store/events/41",
     "start": "2026-10-24T16:00:00+02:00",
     "end": "2026-10-24T18:30:00+02:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/Aaron-sevilla-20261026/",
-    "ticket_url": "https://www.roigarena.com/es/event/Aaron-sevilla-20261026/",
+    "ticket_url": "https://app.afrodisemusic.com/tickets-store/events/41",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fabb90cbd-97bc-4c19-b884-b40213008bfa?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
@@ -1703,6 +1703,22 @@
     ]
   },
   {
+    "summary": "Muse 2027 - Roig Arena",
+    "title": "Muse 2027",
+    "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
+    "description": "Muse 2027 live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/muse-20270123/",
+    "start": "2027-01-23T20:00:00+01:00",
+    "end": "2027-01-23T22:30:00+01:00",
+    "category": "Concert",
+    "url": "https://www.roigarena.com/es/event/muse-20270123/",
+    "ticket_url": "https://www.roigarena.com/es/event/muse-20270123/",
+    "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fff50623a-c0da-4eba-a4f1-5b99add74b71?alt=media&optimize=high&quality=70&width=500",
+    "source_web": "https://www.roigarena.com/es/eventos/",
+    "sources": [
+      "https://www.roigarena.com/es/eventos/"
+    ]
+  },
+  {
     "summary": "Fin de gira - Carlos Ares - Roig Arena",
     "title": "Fin de gira - Carlos Ares",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
@@ -2377,12 +2393,12 @@
     "summary": "Tour Eternos - David Bisbal - Roig Arena",
     "title": "Tour Eternos - David Bisbal",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Tour Eternos - David Bisbal live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/david-bisbal-20270522/",
+    "description": "Tour Eternos - David Bisbal live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/david-bisbal-20270522/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3021121?hl=es-ES",
     "start": "2027-05-22T21:00:00+02:00",
     "end": "2027-05-22T23:30:00+02:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/david-bisbal-20270522/",
-    "ticket_url": "https://www.roigarena.com/es/event/david-bisbal-20270522/",
+    "ticket_url": "https://tickets.oneboxtds.com/roigarena/select/3021121?hl=es-ES",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fe654eae5-fa2d-4854-ab55-7c428ddffc6a?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
