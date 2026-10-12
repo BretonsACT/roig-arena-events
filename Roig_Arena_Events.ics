@@ -27,7 +27,7 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 UID:roig-arena-evt-1-20260731@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20260731T210000
 DTEND;TZID=Europe/Madrid:20260731T233000
 SUMMARY:Yandel Sinfónico - Roig Arena
@@ -44,7 +44,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-2-20260731@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20260731T230000
 DTEND;TZID=Europe/Madrid:20260801T030000
 SUMMARY:Las Noches del Arena - Reguetón de Siempre
@@ -61,7 +61,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-3-20260815@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20260815T200000
 DTEND;TZID=Europe/Madrid:20260815T223000
 SUMMARY:Mumiy Troll Live - Roig Arena
@@ -78,7 +78,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-4-20260820@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20260820T210000
 DTEND;TZID=Europe/Madrid:20260820T233000
 SUMMARY:Judas Priest - Roig Arena
@@ -95,7 +95,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-5-20260903@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20260903T210000
 DTEND;TZID=Europe/Madrid:20260903T233000
 SUMMARY:The Waterboys feat. Steve Earle - Fisherman's Blues Revue
@@ -112,7 +112,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-6-20260904@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20260904T210000
 DTEND;TZID=Europe/Madrid:20260904T233000
 SUMMARY:La Oreja de Van Gogh - Tantas Cosas Que Contar Tour (Day 1)
@@ -129,7 +129,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-7-20260905@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20260905T210000
 DTEND;TZID=Europe/Madrid:20260905T233000
 SUMMARY:La Oreja de Van Gogh - Tantas Cosas Que Contar Tour (Day 2)
@@ -146,7 +146,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-8-20260906@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20260906T200000
 DTEND;TZID=Europe/Madrid:20260906T223000
 SUMMARY:El Kuelgue - Roig Arena
@@ -162,161 +162,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-9-20261007@roigarena.com
-DTSTAMP:20261005T134408Z
-DTSTART;TZID=Europe/Madrid:20261007T200000
-DTEND;TZID=Europe/Madrid:20261007T223000
-SUMMARY:Valencia Basket vs Meins Avenida - Roig Arena
-LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Valencia Basket vs Meins Avenida live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/valencia-basket-vs-meins-20261007/\nTickets: https://tickets.oneboxtds.com/entradas-valenciabasket/select/2998572?hl=es-ES\n\nOfficial Fixture Info: Official Valencia Basket (Femenino) fixture: Valencia BC vs Meins Avenida.\nCompetition: Liga Femenina Endesa / J2\nVenue: Roig Arena Valencia\nTickets: https://tickets.oneboxtds.com/entradas-vip-valenciabasket/select/2998572?hl=es-ES
-URL:https://www.roigarena.com/es/event/valencia-basket-vs-meins-20261007/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket vs Meins Avenida - Roig Arena starting in 4 hours!
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:roig-arena-evt-10-20261008@roigarena.com
-DTSTAMP:20261005T134408Z
-DTSTART;TZID=Europe/Madrid:20261008T203000
-DTEND;TZID=Europe/Madrid:20261008T220000
-SUMMARY:Festival Vallenato - Binomio de Oro - Roig Arena
-LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Festival Vallenato - Binomio de Oro live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/binomio-de-oro-20261008/\nTickets: https://entradaselite.com/producto/valencia-el-binomio-de-oro-de-america/
-URL:https://www.roigarena.com/es/event/binomio-de-oro-20261008/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Festival Vallenato - Binomio de Oro - Roig Arena starting in 4 hours!
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:roig-arena-evt-11-20261008@roigarena.com
-DTSTAMP:20261005T134408Z
-DTSTART;TZID=Europe/Madrid:20261008T203000
-DTEND;TZID=Europe/Madrid:20261008T220000
-SUMMARY:Valencia Basket vs Hapoel IBI Tel Aviv - Roig Arena
-LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Valencia Basket vs Hapoel IBI Tel Aviv live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/valencia-basket-vs-hapoel-20261008/\nTickets: https://www.valenciabasket.com/entradas-hapoel\n\nOfficial Fixture Info: Official Valencia Basket (Masculino) fixture: Valencia Basket vs Hapoel IBI Tel Aviv.\nCompetition: EuroLeague / J4\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
-URL:https://www.roigarena.com/es/event/valencia-basket-vs-hapoel-20261008/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket vs Hapoel IBI Tel Aviv - Roig Arena starting in 4 hours!
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:roig-arena-evt-12-20261009@roigarena.com
-DTSTAMP:20261005T134408Z
-DTSTART;TZID=Europe/Madrid:20261009T200000
-DTEND;TZID=Europe/Madrid:20261009T223000
-SUMMARY:Europe Tour 2026 - Little Big - Roig Arena
-LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Europe Tour 2026 - Little Big live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/little-big-20261009/\nTickets: https://ticketshop.store/en/events/107565
-URL:https://www.roigarena.com/es/event/little-big-20261009/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Europe Tour 2026 - Little Big - Roig Arena starting in 4 hours!
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:roig-arena-evt-13-20261009@roigarena.com
-DTSTAMP:20261005T134408Z
-DTSTART;TZID=Europe/Madrid:20261009T203000
-DTEND;TZID=Europe/Madrid:20261009T220000
-SUMMARY:Gira de vuelta Canciones de ida - Vetusta Morla - Roig Arena
-LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Gira de vuelta Canciones de ida - Vetusta Morla live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/vetusta-morla-2026-gira-de-vuelta-canciones-de-ida-20261009/\nTickets: https://my.weezevent.com/vetusta-morla-2026-valencia-roig-arena
-URL:https://www.roigarena.com/es/event/vetusta-morla-2026-gira-de-vuelta-canciones-de-ida-20261009/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Gira de vuelta Canciones de ida - Vetusta Morla - Roig Arena starting in 4 hours!
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:roig-arena-evt-14-20261010@roigarena.com
-DTSTAMP:20261005T134408Z
-DTSTART;TZID=Europe/Madrid:20261010T200000
-DTEND;TZID=Europe/Madrid:20261010T223000
-SUMMARY:Mercury World Tour '26 - Morgenshtern - Roig Arena
-LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Mercury World Tour '26 - Morgenshtern live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/morgenshtern-20261010/\nTickets: https://ticketshop.store/en/events/107453
-URL:https://www.roigarena.com/es/event/morgenshtern-20261010/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Mercury World Tour '26 - Morgenshtern - Roig Arena starting in 4 hours!
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:roig-arena-evt-15-20261010@roigarena.com
-DTSTAMP:20261005T134408Z
-DTSTART;TZID=Europe/Madrid:20261010T210000
-DTEND;TZID=Europe/Madrid:20261010T233000
-SUMMARY:25 p*t*s años - Dani Martín - Roig Arena
-LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:25 p*t*s años - Dani Martín live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/dani-martin-20261010/\nTickets: https://www.elcorteingles.es/entradas/conciertos/entradas-dani-martin-gira-25-p-t-s-anos-valencia/
-URL:https://www.roigarena.com/es/event/dani-martin-20261010/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 25 p*t*s años - Dani Martín - Roig Arena starting in 4 hours!
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:roig-arena-evt-16-20261011@roigarena.com
-DTSTAMP:20261005T134408Z
-DTSTART;TZID=Europe/Madrid:20261011T193000
-DTEND;TZID=Europe/Madrid:20261011T210000
-SUMMARY:Domination Tour 2026 - Primal Fear - Roig Arena
-LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Domination Tour 2026 - Primal Fear live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/primal-fear-20261011/\nTickets: https://www.getrock.es/conciertos/primal-fear/valencia-2026
-URL:https://www.roigarena.com/es/event/primal-fear-20261011/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Domination Tour 2026 - Primal Fear - Roig Arena starting in 4 hours!
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:roig-arena-evt-17-20261011@roigarena.com
-DTSTAMP:20261005T134408Z
-DTSTART;TZID=Europe/Madrid:20261011T210000
-DTEND;TZID=Europe/Madrid:20261011T233000
-SUMMARY:25 p*t*s años - Dani Martín - Roig Arena
-LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:25 p*t*s años - Dani Martín live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/dani-martin-20261011/\nTickets: https://www.elcorteingles.es/entradas/conciertos/entradas-dani-martin-gira-25-p-t-s-anos-valen-11-10-26-valencia/
-URL:https://www.roigarena.com/es/event/dani-martin-20261011/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 25 p*t*s años - Dani Martín - Roig Arena starting in 4 hours!
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:roig-arena-evt-18-20261012@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-9-20261012@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261012T210000
 DTEND;TZID=Europe/Madrid:20261012T233000
 SUMMARY:El Vendedor de Rosas Tour - Raúl Clyde - Roig Arena
@@ -332,8 +179,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-19-20261013@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-10-20261013@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261013T210000
 DTEND;TZID=Europe/Madrid:20261013T233000
 SUMMARY:Valencia Basket vs Olympiacos Piraeus - Roig Arena
@@ -349,25 +196,42 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-20-20261014@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-11-20261014@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261014T200000
 DTEND;TZID=Europe/Madrid:20261014T223000
-SUMMARY:Valencia Basket vs Fenerbahce Opet - Roig Arena
+SUMMARY:Valencia Basket vs Fenerbahce Tarfin - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Valencia Basket vs Fenerbahce Opet live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/valencia-basket-vs-fenerbahce-20261014/\nTickets: https://tickets.oneboxtds.com/entradas-valenciabasket/select/3003103?hl=es-ES\n\nOfficial Fixture Info: Official Valencia Basket (Femenino) fixture: Valencia BC vs Fenerbahce Opet.\nCompetition: EuroLeague Women / J1\nVenue: Roig Arena Valencia\nTickets: https://tickets.oneboxtds.com/entradas-vip-valenciabasket/select/3003103?hl=es-ES
+DESCRIPTION:Valencia Basket vs Fenerbahce Tarfin live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/valencia-basket-vs-fenerbahce-20261014/\nTickets: https://tickets.oneboxtds.com/entradas-valenciabasket/select/3003103?hl=es-ES
 URL:https://www.roigarena.com/es/event/valencia-basket-vs-fenerbahce-20261014/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Valencia Basket vs Fenerbahce Opet - Roig Arena starting in 4 hours!
+DESCRIPTION:Reminder: Valencia Basket vs Fenerbahce Tarfin - Roig Arena starting in 4 hours!
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-21-20261015@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-12-20261014@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20261014T200000
+DTEND;TZID=Europe/Madrid:20261014T220000
+SUMMARY:Valencia BC vs Fenerbahce Opet (EuroLeague Women / J1)
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Fenerbahce Opet.\nCompetition: EuroLeague Women / J1\nVenue: Roig Arena Valencia\nTickets: https://tickets.oneboxtds.com/entradas-vip-valenciabasket/select/3003103?hl=es-ES
+URL:https://www.valenciabasket.com/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Valencia BC vs Fenerbahce Opet (EuroLeague Women / J1) starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-13-20261015@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261015T203000
 DTEND;TZID=Europe/Madrid:20261015T220000
 SUMMARY:Valencia Basket vs Maccabi Rapyd Tel Aviv - Roig Arena
@@ -383,8 +247,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-22-20261015@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-14-20261015@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261015T210000
 DTEND;TZID=Europe/Madrid:20261015T233000
 SUMMARY:Leoni Torres - Roig Arena
@@ -400,8 +264,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-23-20261016@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-15-20261016@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261016T210000
 DTEND;TZID=Europe/Madrid:20261016T233000
 SUMMARY:La Gira de Mr. Bond - Melon Diesel - Roig Arena
@@ -417,8 +281,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-24-20261016@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-16-20261016@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261016T210000
 DTEND;TZID=Europe/Madrid:20261016T233000
 SUMMARY:Gira Taracá - Jorge Drexler - Roig Arena
@@ -434,8 +298,25 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-25-20261017@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-17-20261017@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20261017T100000
+DTEND;TZID=Europe/Madrid:20261018T220000
+SUMMARY:Las Noches del Arena - Himnos del Rock - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Las Noches del Arena - Himnos del Rock live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/himnos-del-rock-20261017/
+URL:https://www.roigarena.com/es/event/himnos-del-rock-20261017/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Las Noches del Arena - Himnos del Rock - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-18-20261017@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261017T210000
 DTEND;TZID=Europe/Madrid:20261017T233000
 SUMMARY:El día H - Homenaje a Héroes del Silencio - Roig Arena
@@ -451,8 +332,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-26-20261017@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-19-20261017@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261017T210000
 DTEND;TZID=Europe/Madrid:20261017T233000
 SUMMARY:La Gira de tu Vida - Antonio Orozco - Roig Arena
@@ -468,8 +349,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-27-20261018@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-20-20261018@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261018T121500
 DTEND;TZID=Europe/Madrid:20261018T144500
 SUMMARY:Valencia Basket vs Baxi Ferrol - Roig Arena
@@ -485,8 +366,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-28-20261018@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-21-20261018@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261018T170000
 DTEND;TZID=Europe/Madrid:20261018T193000
 SUMMARY:Valencia Basket vs UCAM Murcia - Roig Arena
@@ -502,13 +383,13 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-29-20261023@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-22-20261023@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261023T200000
 DTEND;TZID=Europe/Madrid:20261023T223000
 SUMMARY:Ya es mañana Tour - Morat - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Ya es mañana Tour - Morat live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/morat-2026-20261023/
+DESCRIPTION:Ya es mañana Tour - Morat live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/morat-2026-20261023/\nTickets: https://www.ticketmaster.es/event/morat-entradas/1856771310
 URL:https://www.roigarena.com/es/event/morat-2026-20261023/
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -519,8 +400,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-30-20261023@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-23-20261023@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261023T220000
 DTEND;TZID=Europe/Madrid:20261024T003000
 SUMMARY:Beatles Monumental - La Banda del Late Motiv - Roig Arena
@@ -536,8 +417,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-31-20261024@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-24-20261024@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261024T160000
 DTEND;TZID=Europe/Madrid:20261024T183000
 SUMMARY:Aaron Sevilla - Roig Arena
@@ -553,8 +434,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-32-20261024@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-25-20261024@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261024T210000
 DTEND;TZID=Europe/Madrid:20261024T233000
 SUMMARY:Lia Kali final de gira Kaelis 2.0 - Roig Arena
@@ -570,13 +451,13 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-33-20261025@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-26-20261025@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261025T170000
 DTEND;TZID=Europe/Madrid:20261025T190000
 SUMMARY:Valencia Basket vs Kosner Baskonia (Liga Endesa / J5)
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Kosner Baskonia.\nCompetition: Liga Endesa / J5\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Kosner Baskonia.\nCompetition: Liga Endesa / J5\nVenue: Roig Arena Valencia\nTickets: https://tickets.oneboxtds.com/entradas-vip-valenciabasket/select/3036958?hl=es-ES
 URL:https://www.valenciabasket.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -587,13 +468,13 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-34-20261025@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-27-20261025@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261025T210000
 DTEND;TZID=Europe/Madrid:20261025T233000
 SUMMARY:No te va gustar - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:No te va gustar live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/no-te-va-a-gustar-20261025/\nTickets: https://dice.fm/event/7dqkkb-no-te-va-gustar-25th-oct-roig-arena-valencia-tickets
+DESCRIPTION:No te va gustar live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/no-te-va-a-gustar-20261025/
 URL:https://www.roigarena.com/es/event/no-te-va-a-gustar-20261025/
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -604,13 +485,13 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-35-20261027@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-28-20261027@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261027T203000
 DTEND;TZID=Europe/Madrid:20261027T223000
 SUMMARY:Valencia Basket vs Fenerbahce Tarfin Istanbul (EuroLeague / J8)
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Fenerbahce Tarfin Istanbul.\nCompetition: EuroLeague / J8\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+DESCRIPTION:Official Valencia Basket (Masculino) fixture: Valencia Basket vs Fenerbahce Tarfin Istanbul.\nCompetition: EuroLeague / J8\nVenue: Roig Arena Valencia\nTickets: https://tickets.oneboxtds.com/entradas-vip-valenciabasket/select/3036960?hl=es-ES
 URL:https://www.valenciabasket.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -621,13 +502,13 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-36-20261028@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-29-20261028@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261028T200000
 DTEND;TZID=Europe/Madrid:20261028T220000
 SUMMARY:Valencia BC vs CS Rapid Bucuresti (EuroLeague Women / J3)
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs CS Rapid Bucuresti.\nCompetition: EuroLeague Women / J3\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs CS Rapid Bucuresti.\nCompetition: EuroLeague Women / J3\nVenue: Roig Arena Valencia\nTickets: https://tickets.oneboxtds.com/entradas-vip-valenciabasket/select/3036954?hl=es-ES
 URL:https://www.valenciabasket.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -638,8 +519,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-37-20261029@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-30-20261029@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261029T210000
 DTEND;TZID=Europe/Madrid:20261029T233000
 SUMMARY:Que Tin y Que Tan - Nanpa Básico - Roig Arena
@@ -655,8 +536,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-38-20261030@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-31-20261030@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261030T200000
 DTEND;TZID=Europe/Madrid:20261030T223000
 SUMMARY:Tot s'acaba - La Fúmiga - Roig Arena
@@ -672,8 +553,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-39-20261031@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-32-20261031@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261031T200000
 DTEND;TZID=Europe/Madrid:20261031T223000
 SUMMARY:Tot s'acaba - La Fúmiga - Roig Arena
@@ -689,13 +570,13 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-40-20261101@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-33-20261101@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261101T121500
 DTEND;TZID=Europe/Madrid:20261101T141500
 SUMMARY:Valencia BC vs Celta Femxa Zorka (Liga Femenina Endesa / J6)
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Celta Femxa Zorka.\nCompetition: Liga Femenina Endesa / J6\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/
+DESCRIPTION:Official Valencia Basket (Femenino) fixture: Valencia BC vs Celta Femxa Zorka.\nCompetition: Liga Femenina Endesa / J6\nVenue: Roig Arena Valencia\nTickets: https://tickets.oneboxtds.com/entradas-vip-valenciabasket/select/3036957?hl=es-ES
 URL:https://www.valenciabasket.com/
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -706,8 +587,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-41-20261105@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-34-20261105@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261105T210000
 DTEND;TZID=Europe/Madrid:20261105T233000
 SUMMARY:This is Michael - Roig Arena
@@ -723,8 +604,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-42-20261107@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-35-20261107@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261107T150000
 DTEND;TZID=Europe/Madrid:20261107T173000
 SUMMARY:House Arena - Roig Arena
@@ -740,8 +621,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-43-20261107@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-36-20261107@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261107T210000
 DTEND;TZID=Europe/Madrid:20261107T233000
 SUMMARY:La Tormenta Perfecta Tour - Shinova - Roig Arena
@@ -757,8 +638,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-44-20261108@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-37-20261108@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261108T200000
 DTEND;TZID=Europe/Madrid:20261108T223000
 SUMMARY:Roll with the punches - Bryan Adams - Roig Arena
@@ -774,13 +655,13 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-45-20261108@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-38-20261108@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261108T200000
 DTEND;TZID=Europe/Madrid:20261108T223000
 SUMMARY:Servando & Florentino - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Servando & Florentino live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/servando-y-florentino-20261108/\nTickets: https://entradas.roigarena.com/roigarena/select/3010029
+DESCRIPTION:Servando & Florentino live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/servando-y-florentino-20261108/
 URL:https://www.roigarena.com/es/event/servando-y-florentino-20261108/
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -791,8 +672,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-46-20261112@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-39-20261112@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261112T203000
 DTEND;TZID=Europe/Madrid:20261112T223000
 SUMMARY:Valencia Basket vs FC Bayern Múnich (EuroLeague / J11)
@@ -808,8 +689,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-47-20261112@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-40-20261112@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261112T210000
 DTEND;TZID=Europe/Madrid:20261112T233000
 SUMMARY:St. Paul & The Broken Bones - Roig Arena
@@ -825,8 +706,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-48-20261113@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-41-20261113@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261113T200000
 DTEND;TZID=Europe/Madrid:20261113T223000
 SUMMARY:Raphaelísimo Tour 2026 - Raphael - Roig Arena
@@ -842,8 +723,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-49-20261113@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-42-20261113@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261113T210000
 DTEND;TZID=Europe/Madrid:20261113T233000
 SUMMARY:Ultraswan Tour - Abhir - Roig Arena
@@ -859,8 +740,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-50-20261114@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-43-20261114@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261114T203000
 DTEND;TZID=Europe/Madrid:20261114T220000
 SUMMARY:Los mejores años de nuestra vida - Hombres G - Roig Arena
@@ -876,8 +757,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-51-20261114@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-44-20261114@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261114T210000
 DTEND;TZID=Europe/Madrid:20261114T233000
 SUMMARY:Vincen García - Roig Arena
@@ -893,8 +774,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-52-20261115@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-45-20261115@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261115T120000
 DTEND;TZID=Europe/Madrid:20261115T140000
 SUMMARY:Valencia Basket vs Leyma Coruña (Liga Endesa / J8)
@@ -910,8 +791,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-53-20261115@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-46-20261115@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261115T200000
 DTEND;TZID=Europe/Madrid:20261115T223000
 SUMMARY:El Despecho Tour - Jesse & Joy - Roig Arena
@@ -927,8 +808,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-54-20261119@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-47-20261119@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261119T210000
 DTEND;TZID=Europe/Madrid:20261119T230000
 SUMMARY:Valencia Basket vs Virtus Bolonia (EuroLeague / J13)
@@ -944,8 +825,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-55-20261119@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-48-20261119@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261119T220000
 DTEND;TZID=Europe/Madrid:20261120T003000
 SUMMARY:50 aniversario Orquesta Mondragón - Roig Arena
@@ -961,8 +842,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-56-20261120@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-49-20261120@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261120T210000
 DTEND;TZID=Europe/Madrid:20261120T233000
 SUMMARY:Tour 2026 - Lagos - Roig Arena
@@ -978,8 +859,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-57-20261121@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-50-20261121@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261121T180000
 DTEND;TZID=Europe/Madrid:20261121T203000
 SUMMARY:WOW FC 34 - Roig Arena
@@ -995,8 +876,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-58-20261121@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-51-20261121@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261121T210000
 DTEND;TZID=Europe/Madrid:20261121T233000
 SUMMARY:Todas las luces Tour - Santero y los muchachos - Roig Arena
@@ -1012,8 +893,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-59-20261122@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-52-20261122@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261122T121500
 DTEND;TZID=Europe/Madrid:20261122T141500
 SUMMARY:Valencia BC vs Innova-TSN Leganes (Liga Femenina Endesa / J8)
@@ -1029,8 +910,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-60-20261122@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-53-20261122@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261122T170000
 DTEND;TZID=Europe/Madrid:20261122T190000
 SUMMARY:Valencia Basket vs Río Breogán (Liga Endesa / J9)
@@ -1046,8 +927,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-61-20261122@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-54-20261122@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261122T210000
 DTEND;TZID=Europe/Madrid:20261122T233000
 SUMMARY:Omega 30ª Aniversario - Roig Arena
@@ -1063,8 +944,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-62-20261124@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-55-20261124@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261124T203000
 DTEND;TZID=Europe/Madrid:20261124T223000
 SUMMARY:Valencia Basket vs Panathinaikos AKTOR Athens (EuroLeague / J14)
@@ -1080,8 +961,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-63-20261126@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-56-20261126@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261126T210000
 DTEND;TZID=Europe/Madrid:20261126T233000
 SUMMARY:Los Fabulosos Cadillacs en Valencia - Roig Arena
@@ -1097,8 +978,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-64-20261126@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-57-20261126@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261126T210000
 DTEND;TZID=Europe/Madrid:20261126T233000
 SUMMARY:Fin de la aventura Tour - Carolina Durante - Roig Arena
@@ -1114,8 +995,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-65-20261127@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-58-20261127@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261127T184500
 DTEND;TZID=Europe/Madrid:20261127T201500
 SUMMARY:ACCEPT - Roig Arena
@@ -1131,8 +1012,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-66-20261128@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-59-20261128@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261128T210000
 DTEND;TZID=Europe/Madrid:20261128T233000
 SUMMARY:Mind Enterprises - Roig Arena
@@ -1148,8 +1029,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-67-20261128@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-60-20261128@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261128T211500
 DTEND;TZID=Europe/Madrid:20261128T234500
 SUMMARY:125 años Iberdrola - Estopa - Roig Arena
@@ -1165,8 +1046,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-68-20261129@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-61-20261129@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261129T121500
 DTEND;TZID=Europe/Madrid:20261129T141500
 SUMMARY:Valencia BC vs Impulso 360 Estepona (Liga Femenina Endesa / J9)
@@ -1182,8 +1063,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-69-20261205@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-62-20261205@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261205T210000
 DTEND;TZID=Europe/Madrid:20261205T233000
 SUMMARY:De Pata Negra a Raimundo Amador - Roig Arena
@@ -1199,8 +1080,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-70-20261206@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-63-20261206@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261206T210000
 DTEND;TZID=Europe/Madrid:20261206T233000
 SUMMARY:Niña Pastori - Roig Arena
@@ -1216,8 +1097,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-71-20261207@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-64-20261207@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261207T203000
 DTEND;TZID=Europe/Madrid:20261207T220000
 SUMMARY:Nuevas Mutaciones Tour 2026 - Bunbury - Roig Arena
@@ -1233,8 +1114,25 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-72-20261209@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-65-20261208@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20261208T200000
+DTEND;TZID=Europe/Madrid:20261208T223000
+SUMMARY:Jay Wheeler - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Jay Wheeler live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/jay-wheeler-20261208/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3045384?hl=es-ES
+URL:https://www.roigarena.com/es/event/jay-wheeler-20261208/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Jay Wheeler - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-66-20261209@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261209T200000
 DTEND;TZID=Europe/Madrid:20261209T220000
 SUMMARY:Valencia BC vs Mirai Euskotren (Liga Femenina Endesa / J11)
@@ -1250,8 +1148,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-73-20261210@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-67-20261210@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261210T203000
 DTEND;TZID=Europe/Madrid:20261210T223000
 SUMMARY:Valencia Basket vs Crvena Zvezda Meridianbet Belgrade (EuroLeague / J16)
@@ -1267,8 +1165,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-74-20261210@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-68-20261210@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261210T210000
 DTEND;TZID=Europe/Madrid:20261210T233000
 SUMMARY:Gira 25 aniversario ¿Qué pides tu? - Alex Ubago - Roig Arena
@@ -1284,8 +1182,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-75-20261211@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-69-20261211@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261211T210000
 DTEND;TZID=Europe/Madrid:20261211T233000
 SUMMARY:Love Of Lesbian - Roig Arena
@@ -1301,8 +1199,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-76-20261211@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-70-20261211@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261211T210000
 DTEND;TZID=Europe/Madrid:20261211T233000
 SUMMARY:Una mudanza tour - Hens - Roig Arena
@@ -1318,8 +1216,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-77-20261212@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-71-20261212@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261212T203000
 DTEND;TZID=Europe/Madrid:20261212T220000
 SUMMARY:Pop Rock Tour - Melendi - Roig Arena
@@ -1335,8 +1233,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-78-20261212@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-72-20261212@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261212T210000
 DTEND;TZID=Europe/Madrid:20261212T233000
 SUMMARY:ELLAR - Sofía Ellar - Roig Arena
@@ -1352,8 +1250,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-79-20261213@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-73-20261213@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261213T203000
 DTEND;TZID=Europe/Madrid:20261213T220000
 SUMMARY:Pop Rock Tour - Melendi - Roig Arena
@@ -1369,8 +1267,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-80-20261215@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-74-20261215@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261215T201500
 DTEND;TZID=Europe/Madrid:20261215T224500
 SUMMARY:The Trouble With The Truth Tour - Macy Gray - Roig Arena
@@ -1386,8 +1284,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-81-20261215@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-75-20261215@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261215T203000
 DTEND;TZID=Europe/Madrid:20261215T223000
 SUMMARY:Valencia Basket vs Dubai Basketball (EuroLeague / J17)
@@ -1403,8 +1301,25 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-82-20261218@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-76-20261216@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20261216T203000
+DTEND;TZID=Europe/Madrid:20261216T220000
+SUMMARY:Raya Real - Con Alegría - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Raya Real - Con Alegría live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/raya-real-20261216/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3045374?hl=es-ES
+URL:https://www.roigarena.com/es/event/raya-real-20261216/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Raya Real - Con Alegría - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-77-20261218@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261218T180000
 DTEND;TZID=Europe/Madrid:20261218T203000
 SUMMARY:Japan Sound Quest - Roig Arena
@@ -1420,8 +1335,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-83-20261219@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-78-20261219@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261219T170000
 DTEND;TZID=Europe/Madrid:20261219T193000
 SUMMARY:Festival Locos por la Música Valencia 2026 - Roig Arena
@@ -1437,8 +1352,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-84-20261219@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-79-20261219@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261219T190000
 DTEND;TZID=Europe/Madrid:20261219T213000
 SUMMARY:¡DESPIERTA! - Toni Pons - Roig Arena
@@ -1454,8 +1369,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-85-20261220@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-80-20261220@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261220T121500
 DTEND;TZID=Europe/Madrid:20261220T141500
 SUMMARY:Valencia BC vs Cadi La Seu (Liga Femenina Endesa / J13)
@@ -1471,8 +1386,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-86-20261220@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-81-20261220@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261220T123000
 DTEND;TZID=Europe/Madrid:20261220T143000
 SUMMARY:Valencia Basket vs La Laguna Tenerife (Liga Endesa / J13)
@@ -1488,8 +1403,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-87-20261222@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-82-20261222@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261222T200000
 DTEND;TZID=Europe/Madrid:20261222T220000
 SUMMARY:Valencia BC vs Hozono Global Jairis (Liga Femenina Endesa / J14)
@@ -1505,8 +1420,42 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-88-20261229@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-83-20261226@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20261226T180000
+DTEND;TZID=Europe/Madrid:20261226T203000
+SUMMARY:Rudolph, El Musical - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Rudolph, El Musical live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/rudolph-musical-20261226/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3044307?hl=es-ES
+URL:https://www.roigarena.com/es/event/rudolph-musical-20261226/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Rudolph, El Musical - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-84-20261227@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20261227T200000
+DTEND;TZID=Europe/Madrid:20261227T223000
+SUMMARY:Rudolph El Musical - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Rudolph El Musical live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/rudolph-musical-20261227/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3044308?hl=es-ES
+URL:https://www.roigarena.com/es/event/rudolph-musical-20261227/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Rudolph El Musical - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-85-20261229@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20261229T180000
 DTEND;TZID=Europe/Madrid:20261229T203000
 SUMMARY:Luli Pampín en Valencia - Roig Arena
@@ -1522,8 +1471,25 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-89-20270103@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-86-20270101@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20270101T193000
+DTEND;TZID=Europe/Madrid:20270101T210000
+SUMMARY:Concierto Año Nuevo - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Concierto Año Nuevo live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/concierto-ano-nuevo-20270101/\nTickets: https://tickets.oneboxtds.com/roigarena/events/60916?hl=es-ES
+URL:https://www.roigarena.com/es/event/concierto-ano-nuevo-20270101/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Concierto Año Nuevo - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-87-20270103@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270103T200000
 DTEND;TZID=Europe/Madrid:20270103T220000
 SUMMARY:Valencia BC vs Spar Girona (Liga Femenina Endesa / J16)
@@ -1539,8 +1505,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-90-20270104@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-88-20270104@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270104T200000
 DTEND;TZID=Europe/Madrid:20270104T220000
 SUMMARY:Valencia Basket vs Real Madrid (Liga Endesa / J15)
@@ -1556,8 +1522,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-91-20270107@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-89-20270107@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270107T203000
 DTEND;TZID=Europe/Madrid:20270107T223000
 SUMMARY:Valencia Basket vs Partizan Mozzart Bet Belgrade (EuroLeague / J21)
@@ -1573,8 +1539,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-92-20270108@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-90-20270108@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270108T210000
 DTEND;TZID=Europe/Madrid:20270108T233000
 SUMMARY:Cupido - Roig Arena
@@ -1590,8 +1556,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-93-20270109@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-91-20270109@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270109T160000
 DTEND;TZID=Europe/Madrid:20270109T183000
 SUMMARY:Universo Makina Valencia - Roig Arena
@@ -1607,8 +1573,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-94-20270109@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-92-20270109@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270109T210000
 DTEND;TZID=Europe/Madrid:20270109T233000
 SUMMARY:VÉRTIGO TOUR - OBK - Roig Arena
@@ -1624,8 +1590,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-95-20270110@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-93-20270110@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270110T163000
 DTEND;TZID=Europe/Madrid:20270110T183000
 SUMMARY:Valencia Basket vs Surne Bilbao (Liga Endesa / J17)
@@ -1641,8 +1607,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-96-20270110@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-94-20270110@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270110T200000
 DTEND;TZID=Europe/Madrid:20270110T223000
 SUMMARY:Simply The Best - Tina Turner Tribute - Roig Arena
@@ -1658,8 +1624,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-97-20270114@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-95-20270114@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270114T203000
 DTEND;TZID=Europe/Madrid:20270114T220000
 SUMMARY:El Día Que Me Olvides Tour - Segunda Fecha - Walls - Roig Arena
@@ -1675,8 +1641,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-98-20270115@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-96-20270115@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270115T203000
 DTEND;TZID=Europe/Madrid:20270115T220000
 SUMMARY:El Día que me olvides Tour - Walls - Roig Arena
@@ -1692,8 +1658,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-99-20270116@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-97-20270116@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270116T210000
 DTEND;TZID=Europe/Madrid:20270116T233000
 SUMMARY:Ritorno a la via dalma Tour - Sergio Dalma - Roig Arena
@@ -1709,8 +1675,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-100-20270116@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-98-20270116@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270116T210000
 DTEND;TZID=Europe/Madrid:20270116T233000
 SUMMARY:El Tour Intergaláctico - La La Love You - Roig Arena
@@ -1726,8 +1692,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-101-20270117@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-99-20270117@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270117T121500
 DTEND;TZID=Europe/Madrid:20270117T141500
 SUMMARY:Valencia BC vs Azulmarino Mallorca Palma (Liga Femenina Endesa / J18)
@@ -1743,8 +1709,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-102-20270117@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-100-20270117@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270117T180000
 DTEND;TZID=Europe/Madrid:20270117T200000
 SUMMARY:Valencia Basket vs MoraBanc Andorra (Liga Endesa / J18)
@@ -1760,8 +1726,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-103-20270119@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-101-20270119@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270119T200000
 DTEND;TZID=Europe/Madrid:20270119T223000
 SUMMARY:Futttura Tour - TINI - Roig Arena
@@ -1777,8 +1743,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-104-20270120@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-102-20270120@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270120T200000
 DTEND;TZID=Europe/Madrid:20270120T223000
 SUMMARY:Futttura Tour - TINI - Roig Arena
@@ -1794,8 +1760,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-105-20270122@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-103-20270122@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270122T203000
 DTEND;TZID=Europe/Madrid:20270122T223000
 SUMMARY:Valencia Basket vs LDLC Asvel Villeurbanne (EuroLeague / J24)
@@ -1811,8 +1777,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-106-20270122@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-104-20270122@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270122T210000
 DTEND;TZID=Europe/Madrid:20270122T233000
 SUMMARY:Xoel López - Roig Arena
@@ -1828,13 +1794,13 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-107-20270123@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-105-20270123@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270123T200000
 DTEND;TZID=Europe/Madrid:20270123T223000
 SUMMARY:Muse 2027 - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Muse 2027 live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/muse-20270123/
+DESCRIPTION:Muse 2027 live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/muse-20270123/\nTickets: https://www.livenation.es/show/1701965
 URL:https://www.roigarena.com/es/event/muse-20270123/
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -1845,8 +1811,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-108-20270123@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-106-20270123@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270123T210000
 DTEND;TZID=Europe/Madrid:20270123T233000
 SUMMARY:Fin de gira - Carlos Ares - Roig Arena
@@ -1862,8 +1828,25 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-109-20270129@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-107-20270124@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20270124T203000
+DTEND;TZID=Europe/Madrid:20270124T220000
+SUMMARY:Muse 2027 - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Muse 2027 live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/muse-20270124/\nTickets: https://www.livenation.es/show/1701969
+URL:https://www.roigarena.com/es/event/muse-20270124/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Muse 2027 - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-108-20270129@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270129T210000
 DTEND;TZID=Europe/Madrid:20270129T233000
 SUMMARY:No quiero hablar de mí, pero yo - Albert Pla - Roig Arena
@@ -1879,8 +1862,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-110-20270130@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-109-20270130@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270130T200000
 DTEND;TZID=Europe/Madrid:20270130T223000
 SUMMARY:EDITORS - Roig Arena
@@ -1896,8 +1879,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-111-20270131@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-110-20270131@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270131T200000
 DTEND;TZID=Europe/Madrid:20270131T223000
 SUMMARY:Kabrönes - Roig Arena
@@ -1913,8 +1896,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-112-20270131@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-111-20270131@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270131T203000
 DTEND;TZID=Europe/Madrid:20270131T220000
 SUMMARY:Gira La Calma - El Kanka - Roig Arena
@@ -1930,8 +1913,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-113-20270203@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-112-20270203@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270203T204500
 DTEND;TZID=Europe/Madrid:20270203T224500
 SUMMARY:Valencia Basket vs Armani Olimpia Milan (EuroLeague / J26)
@@ -1947,8 +1930,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-114-20270204@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-113-20270204@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270204T200000
 DTEND;TZID=Europe/Madrid:20270204T220000
 SUMMARY:Valencia BC vs Durán Maquinaria Ensino (Liga Femenina Endesa / J21)
@@ -1964,8 +1947,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-115-20270204@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-114-20270204@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270204T203000
 DTEND;TZID=Europe/Madrid:20270204T220000
 SUMMARY:SB2 Tour Deluxe - Hecky - Roig Arena
@@ -1981,8 +1964,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-116-20270205@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-115-20270205@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270205T200000
 DTEND;TZID=Europe/Madrid:20270205T223000
 SUMMARY:Niña Polaca - Roig Arena
@@ -1998,8 +1981,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-117-20270205@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-116-20270205@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270205T204500
 DTEND;TZID=Europe/Madrid:20270205T224500
 SUMMARY:Valencia Basket vs FC Barcelona (EuroLeague / J27)
@@ -2015,8 +1998,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-118-20270206@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-117-20270206@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270206T203000
 DTEND;TZID=Europe/Madrid:20270206T220000
 SUMMARY:Camisa de fuerza Tour - Kase.O - Roig Arena
@@ -2032,8 +2015,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-119-20270206@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-118-20270206@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270206T213000
 DTEND;TZID=Europe/Madrid:20270207T230000
 SUMMARY:Raule - Roig Arena
@@ -2049,8 +2032,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-120-20270207@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-119-20270207@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270207T180000
 DTEND;TZID=Europe/Madrid:20270207T200000
 SUMMARY:Valencia Basket vs Asisa Joventut (Liga Endesa / J21)
@@ -2066,8 +2049,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-121-20270211@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-120-20270211@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270211T203000
 DTEND;TZID=Europe/Madrid:20270211T223000
 SUMMARY:Valencia Basket vs Paris Basketball (EuroLeague / J28)
@@ -2083,8 +2066,25 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:roig-arena-evt-121-20270213@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20270213T200000
+DTEND;TZID=Europe/Madrid:20270213T223000
+SUMMARY:Barry B - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Barry B live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/barryb-20270213/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3041916?hl=es-ES
+URL:https://www.roigarena.com/es/event/barryb-20270213/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Barry B - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:roig-arena-evt-122-20270213@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270213T203000
 DTEND;TZID=Europe/Madrid:20270213T220000
 SUMMARY:La Gira - Hakuna - Roig Arena
@@ -2101,7 +2101,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-123-20270214@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270214T120000
 DTEND;TZID=Europe/Madrid:20270214T140000
 SUMMARY:Valencia Basket vs Casademont Zaragoza (Liga Endesa / J22)
@@ -2118,7 +2118,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-124-20270218@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270218T180000
 DTEND;TZID=Europe/Madrid:20270221T230000
 SUMMARY:Copa del Rey de Baloncesto 2027 (Hosted at Roig Arena)
@@ -2135,7 +2135,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-125-20270227@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270227T210000
 DTEND;TZID=Europe/Madrid:20270227T233000
 SUMMARY:Gira 2027 Carne con Patatas - Los Zigarros - Roig Arena
@@ -2152,7 +2152,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-126-20270228@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270228T121500
 DTEND;TZID=Europe/Madrid:20270228T141500
 SUMMARY:Valencia BC vs Inversus Gernika Bizkaia (Liga Femenina Endesa / J23)
@@ -2169,7 +2169,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-127-20270304@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270304T203000
 DTEND;TZID=Europe/Madrid:20270304T223000
 SUMMARY:Valencia Basket vs Zalgiris Kaunas (EuroLeague / J29)
@@ -2185,25 +2185,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-128-20270312@roigarena.com
-DTSTAMP:20261005T134408Z
-DTSTART;TZID=Europe/Madrid:20270312T100000
-DTEND;TZID=Europe/Madrid:20270321T220000
-SUMMARY:PROJECT B - Roig Arena
-LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:PROJECT B live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/project-b-20270312/
-URL:https://www.roigarena.com/es/event/project-b-20270312/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: PROJECT B - Roig Arena starting in 4 hours!
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:roig-arena-evt-129-20270313@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-128-20270313@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270313T210000
 DTEND;TZID=Europe/Madrid:20270313T233000
 SUMMARY:Benito Kamelas - Roig Arena
@@ -2219,8 +2202,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-130-20270314@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-129-20270314@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270314T210000
 DTEND;TZID=Europe/Madrid:20270314T233000
 SUMMARY:Squeeze - Roig Arena
@@ -2236,8 +2219,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-131-20270317@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-130-20270317@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270317T200000
 DTEND;TZID=Europe/Madrid:20270317T220000
 SUMMARY:Valencia BC vs Movistar Estudiantes (Liga Femenina Endesa / J26)
@@ -2253,8 +2236,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-132-20270320@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-131-20270320@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270320T183000
 DTEND;TZID=Europe/Madrid:20270320T203000
 SUMMARY:Valencia BC vs Casademont Zaragoza (Liga Femenina Endesa / J27)
@@ -2270,8 +2253,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-133-20270321@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-132-20270321@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270321T123000
 DTEND;TZID=Europe/Madrid:20270321T143000
 SUMMARY:Valencia Basket vs Recoletas Salud San Pablo Burgos (Liga Endesa / J25)
@@ -2287,8 +2270,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-134-20270323@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-133-20270323@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270323T203000
 DTEND;TZID=Europe/Madrid:20270323T220000
 SUMMARY:Kings of Metal Fighting The World Tour 2027 - Manowar - Roig Arena
@@ -2304,8 +2287,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-135-20270324@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-134-20270324@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270324T203000
 DTEND;TZID=Europe/Madrid:20270324T223000
 SUMMARY:Valencia Basket vs Besiktas Istanbul (EuroLeague / J33)
@@ -2321,8 +2304,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-136-20270328@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-135-20270328@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270328T170000
 DTEND;TZID=Europe/Madrid:20270328T190000
 SUMMARY:Valencia Basket vs Bàsquet Girona (Liga Endesa / J26)
@@ -2338,8 +2321,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-137-20270401@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-136-20270401@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270401T203000
 DTEND;TZID=Europe/Madrid:20270401T223000
 SUMMARY:Valencia Basket vs Real Madrid (EuroLeague / J35)
@@ -2355,8 +2338,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-138-20270402@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-137-20270402@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270402T210000
 DTEND;TZID=Europe/Madrid:20270402T233000
 SUMMARY:Anais 2027 Tour - Cano - Roig Arena
@@ -2372,8 +2355,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-139-20270403@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-138-20270403@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270403T203000
 DTEND;TZID=Europe/Madrid:20270403T220000
 SUMMARY:Lo que guardas te hace volver Tour - El Barrio - Roig Arena
@@ -2389,8 +2372,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-140-20270408@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-139-20270408@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270408T203000
 DTEND;TZID=Europe/Madrid:20270408T223000
 SUMMARY:Valencia Basket vs Anadolu Efes Istanbul (EuroLeague / J37)
@@ -2406,8 +2389,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-141-20270409@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-140-20270409@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270409T203000
 DTEND;TZID=Europe/Madrid:20270409T220000
 SUMMARY:A Beautiful Lie vs This Is War - Thirty Seconds to Mars - Roig Arena
@@ -2423,8 +2406,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-142-20270411@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-141-20270411@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270411T121500
 DTEND;TZID=Europe/Madrid:20270411T141500
 SUMMARY:Valencia BC vs Kutxabank Araski (Liga Femenina Endesa / J29)
@@ -2440,8 +2423,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-143-20270411@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-142-20270411@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270411T180000
 DTEND;TZID=Europe/Madrid:20270411T200000
 SUMMARY:Valencia Basket vs Monbus Obradoiro (Liga Endesa / J28)
@@ -2457,13 +2440,30 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:roig-arena-evt-143-20270416@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20270416T210000
+DTEND;TZID=Europe/Madrid:20270416T233000
+SUMMARY:Anunciado en Televisión - Pignoise - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Anunciado en Televisión - Pignoise live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/pignoise-en-valencia-20270416/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3045275?hl=es-ES
+URL:https://www.roigarena.com/es/event/pignoise-en-valencia-20270416/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anunciado en Televisión - Pignoise - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:roig-arena-evt-144-20270417@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270417T210000
 DTEND;TZID=Europe/Madrid:20270417T233000
 SUMMARY:Anunciado en Televisión - Pignoise - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Anunciado en Televisión - Pignoise live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/pignoise-valencia-20270417/
+DESCRIPTION:Anunciado en Televisión - Pignoise live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/pignoise-valencia-20270417/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3039192?hl=es-ES
 URL:https://www.roigarena.com/es/event/pignoise-valencia-20270417/
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -2475,7 +2475,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-145-20270424@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270424T210000
 DTEND;TZID=Europe/Madrid:20270424T233000
 SUMMARY:Pasado, presente y futuro - Bombai - Roig Arena
@@ -2492,7 +2492,24 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:roig-arena-evt-146-20270425@roigarena.com
-DTSTAMP:20261005T134408Z
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20270425T190000
+DTEND;TZID=Europe/Madrid:20270425T213000
+SUMMARY:Pasión Vega - 'Pasión Almodóvar' - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Pasión Vega - 'Pasión Almodóvar' live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/pasion-vega-20270425/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3043572?hl=es-ES
+URL:https://www.roigarena.com/es/event/pasion-vega-20270425/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pasión Vega - 'Pasión Almodóvar' - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-147-20270425@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270425T190000
 DTEND;TZID=Europe/Madrid:20270425T210000
 SUMMARY:Valencia Basket vs FC Barcelona (Liga Endesa / J30)
@@ -2508,8 +2525,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-147-20270501@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-148-20270501@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270501T210000
 DTEND;TZID=Europe/Madrid:20270501T233000
 SUMMARY:Seguridad Social y Amigos - Roig Arena
@@ -2525,8 +2542,25 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-148-20270508@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-149-20270508@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20270508T180000
+DTEND;TZID=Europe/Madrid:20270508T203000
+SUMMARY:FMS Internacional 2027 - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:FMS Internacional 2027 live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/fms-internacional-2027-20270508/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3045398?hl=es-ES
+URL:https://www.roigarena.com/es/event/fms-internacional-2027-20270508/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: FMS Internacional 2027 - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-150-20270508@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270508T213000
 DTEND;TZID=Europe/Madrid:20270509T230000
 SUMMARY:Los Invaders - Roig Arena
@@ -2542,8 +2576,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-149-20270510@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-151-20270510@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270510T200000
 DTEND;TZID=Europe/Madrid:20270510T223000
 SUMMARY:The World of Hans Zimmer A New Dimension - Roig Arena
@@ -2559,8 +2593,25 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-150-20270522@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-152-20270522@roigarena.com
+DTSTAMP:20261012T143254Z
+DTSTART;TZID=Europe/Madrid:20270522T210000
+DTEND;TZID=Europe/Madrid:20270522T233000
+SUMMARY:Burning - Roig Arena
+LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
+DESCRIPTION:Burning live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/burning-20270522/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3045179?hl=es-ES
+URL:https://www.roigarena.com/es/event/burning-20270522/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Burning - Roig Arena starting in 4 hours!
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:roig-arena-evt-153-20270522@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270522T210000
 DTEND;TZID=Europe/Madrid:20270522T233000
 SUMMARY:Tour Eternos - David Bisbal - Roig Arena
@@ -2576,8 +2627,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-151-20270523@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-154-20270523@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270523T210000
 DTEND;TZID=Europe/Madrid:20270523T233000
 SUMMARY:Tour “A Flor do Recomeço” - Salvador Sobral - Roig Arena
@@ -2593,8 +2644,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-152-20270523@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-155-20270523@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270523T210000
 DTEND;TZID=Europe/Madrid:20270523T233000
 SUMMARY:D. Valentino - Roig Arena
@@ -2610,8 +2661,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-153-20270527@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-156-20270527@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270527T210000
 DTEND;TZID=Europe/Madrid:20270527T233000
 SUMMARY:Pablo López - Roig Arena
@@ -2627,8 +2678,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-154-20270605@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-157-20270605@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270605T200000
 DTEND;TZID=Europe/Madrid:20270605T223000
 SUMMARY:80sEnEspañol - MESCALINA - Roig Arena
@@ -2644,8 +2695,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-155-20270924@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-158-20270924@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20270924T200000
 DTEND;TZID=Europe/Madrid:20270924T223000
 SUMMARY:Deacon Blue - Roig Arena
@@ -2661,13 +2712,13 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-156-20271009@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-159-20271009@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20271009T200000
 DTEND;TZID=Europe/Madrid:20271009T223000
 SUMMARY:Siloé - Roig Arena
 LOCATION:Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain
-DESCRIPTION:Siloé live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/20271009-siloe/
+DESCRIPTION:Siloé live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/20271009-siloe/\nTickets: https://entradas.siloemusic.es/siloe-terrorismo-emocional-deluxe-tour-valencia-2027
 URL:https://www.roigarena.com/es/event/20271009-siloe/
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -2678,8 +2729,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-157-20271031@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-160-20271031@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20271031T200000
 DTEND;TZID=Europe/Madrid:20271031T223000
 SUMMARY:World Tour 2026/27 - Il Volo - Roig Arena
@@ -2695,8 +2746,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:roig-arena-evt-158-20280426@roigarena.com
-DTSTAMP:20261005T134408Z
+UID:roig-arena-evt-161-20280426@roigarena.com
+DTSTAMP:20261012T143254Z
 DTSTART;TZID=Europe/Madrid:20280426T203000
 DTEND;TZID=Europe/Madrid:20280426T220000
 SUMMARY:Una Historia Importante Tour - Eros Ramazzotti - Roig Arena
