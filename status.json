@@ -1,12 +1,12 @@
 {
   "status": "success",
-  "last_updated": "2026-10-26T12:20:05.903503",
+  "last_updated": "2026-11-02T14:53:04.363826",
   "total_events": 157,
   "all_three_webs_verified": true,
   "categories": {
-    "Concert": 112,
+    "Concert": 115,
     "Party": 2,
-    "Sports": 43
+    "Sports": 40
   },
   "sources": {
     "roigarena_catalog": {
@@ -23,8 +23,8 @@
     },
     "valencia_basket": {
       "url": "https://www.valenciabasket.com/ca/calendario",
-      "scraped_count": 41,
-      "included_count": 41,
+      "scraped_count": 38,
+      "included_count": 38,
       "coverage_pct": 100.0
     }
   },
