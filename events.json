@@ -120,91 +120,6 @@
     ]
   },
   {
-    "summary": "This is Michael - Roig Arena",
-    "title": "This is Michael",
-    "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "This is Michael live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/this-is-michael-valencia-20261105/\nTickets: https://www.enterticket.com/events/this-is-michael-en-valencia-714718",
-    "start": "2026-11-05T21:00:00+01:00",
-    "end": "2026-11-05T23:30:00+01:00",
-    "category": "Concert",
-    "url": "https://www.roigarena.com/es/event/this-is-michael-valencia-20261105/",
-    "ticket_url": "https://www.enterticket.com/events/this-is-michael-en-valencia-714718",
-    "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F12e77b19-44f2-44a3-bb72-730b09e747b0?alt=media&optimize=high&quality=70&width=500",
-    "source_web": "https://www.roigarena.com/es/eventos/",
-    "sources": [
-      "https://www.roigarena.com/es/eventos/",
-      "https://www.roigarena.com/"
-    ]
-  },
-  {
-    "summary": "House Arena - Roig Arena",
-    "title": "House Arena",
-    "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "House Arena live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/house-arena-20261107/",
-    "start": "2026-11-07T15:00:00+01:00",
-    "end": "2026-11-07T17:30:00+01:00",
-    "category": "Concert",
-    "url": "https://www.roigarena.com/es/event/house-arena-20261107/",
-    "ticket_url": "https://www.roigarena.com/",
-    "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F335da5e1-0640-4000-93bb-9441869ca211?alt=media&optimize=high&quality=70&width=500",
-    "source_web": "https://www.roigarena.com/es/eventos/",
-    "sources": [
-      "https://www.roigarena.com/es/eventos/",
-      "https://www.roigarena.com/"
-    ]
-  },
-  {
-    "summary": "La Tormenta Perfecta Tour - Shinova - Roig Arena",
-    "title": "La Tormenta Perfecta Tour - Shinova",
-    "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "La Tormenta Perfecta Tour - Shinova live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/shinova-20261007/",
-    "start": "2026-11-07T21:00:00+01:00",
-    "end": "2026-11-07T23:30:00+01:00",
-    "category": "Concert",
-    "url": "https://www.roigarena.com/es/event/shinova-20261007/",
-    "ticket_url": "https://www.roigarena.com/",
-    "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fa8267a1d-51c4-400b-bdee-bf120512870c?alt=media&optimize=high&quality=70&width=500",
-    "source_web": "https://www.roigarena.com/es/eventos/",
-    "sources": [
-      "https://www.roigarena.com/es/eventos/",
-      "https://www.roigarena.com/"
-    ]
-  },
-  {
-    "summary": "Servando & Florentino - Roig Arena",
-    "title": "Servando & Florentino",
-    "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Servando & Florentino live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/servando-y-florentino-20261108/",
-    "start": "2026-11-08T20:00:00+01:00",
-    "end": "2026-11-08T22:30:00+01:00",
-    "category": "Concert",
-    "url": "https://www.roigarena.com/es/event/servando-y-florentino-20261108/",
-    "ticket_url": "https://www.roigarena.com/",
-    "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F0e8da6f7-a42b-4617-8c81-3526debae869?alt=media&optimize=high&quality=70&width=500",
-    "source_web": "https://www.roigarena.com/es/eventos/",
-    "sources": [
-      "https://www.roigarena.com/es/eventos/",
-      "https://www.roigarena.com/"
-    ]
-  },
-  {
-    "summary": "Roll with the punches - Bryan Adams - Roig Arena",
-    "title": "Roll with the punches - Bryan Adams",
-    "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Roll with the punches - Bryan Adams live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/bryan-adams-20261108/\nTickets: https://www.ticketvip.es/evento-entradas-bryan-adams-valencia-2026",
-    "start": "2026-11-08T20:00:00+01:00",
-    "end": "2026-11-08T22:30:00+01:00",
-    "category": "Concert",
-    "url": "https://www.roigarena.com/es/event/bryan-adams-20261108/",
-    "ticket_url": "https://www.ticketvip.es/evento-entradas-bryan-adams-valencia-2026",
-    "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F35d4f2ea-5f7b-4eb0-8741-88b561144c49?alt=media&optimize=high&quality=70&width=500",
-    "source_web": "https://www.roigarena.com/es/eventos/",
-    "sources": [
-      "https://www.roigarena.com/es/eventos/",
-      "https://www.roigarena.com/"
-    ]
-  },
-  {
     "summary": "Valencia Basket vs FC Bayern M\u00fanich - Roig Arena",
     "title": "Valencia Basket vs FC Bayern M\u00fanich",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
@@ -231,7 +146,7 @@
     "end": "2026-11-12T23:30:00+01:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/st-paul-the-broken-bones-20261112/",
-    "ticket_url": "https://www.roigarena.com/",
+    "ticket_url": "https://www.roigarena.com/es/event/st-paul-the-broken-bones-20261112/",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fc4fa2c6c-c502-4c29-b160-898ffd71864c?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
@@ -269,7 +184,8 @@
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fe4c9711c-6f94-4957-9dba-4e490d9684a2?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
-      "https://www.roigarena.com/es/eventos/"
+      "https://www.roigarena.com/es/eventos/",
+      "https://www.roigarena.com/"
     ]
   },
   {
@@ -285,7 +201,8 @@
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fb477d223-0dfa-4e3a-8e94-667acef3a609?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
-      "https://www.roigarena.com/es/eventos/"
+      "https://www.roigarena.com/es/eventos/",
+      "https://www.roigarena.com/"
     ]
   },
   {
@@ -301,7 +218,8 @@
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F1d85b581-fe67-4d73-94b9-45ed32c4c3fb?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
-      "https://www.roigarena.com/es/eventos/"
+      "https://www.roigarena.com/es/eventos/",
+      "https://www.roigarena.com/"
     ]
   },
   {
@@ -318,6 +236,7 @@
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
       "https://www.roigarena.com/es/eventos/",
+      "https://www.roigarena.com/",
       "https://www.valenciabasket.com/ca/calendario"
     ]
   },
@@ -334,7 +253,8 @@
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fb4aa08a4-b73b-4e06-8110-b0386fc13d28?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
-      "https://www.roigarena.com/es/eventos/"
+      "https://www.roigarena.com/es/eventos/",
+      "https://www.roigarena.com/"
     ]
   },
   {
@@ -359,8 +279,8 @@
     "title": "50 aniversario Orquesta Mondrag\u00f3n",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
     "description": "50 aniversario Orquesta Mondrag\u00f3n live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/50-aniversario-la-orquesta-mondragon-20261119/\nTickets: https://www.notikumi.com/2026/11/19/50-aniversario-orquesta-mondragon-en-valencia",
-    "start": "2026-11-19T22:00:00+01:00",
-    "end": "2026-11-20T00:30:00+01:00",
+    "start": "2026-11-19T21:30:00+01:00",
+    "end": "2026-11-20T23:00:00+01:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/50-aniversario-la-orquesta-mondragon-20261119/",
     "ticket_url": "https://www.notikumi.com/2026/11/19/50-aniversario-orquesta-mondragon-en-valencia",
@@ -374,12 +294,12 @@
     "summary": "Tour 2026 - Lagos - Roig Arena",
     "title": "Tour 2026 - Lagos",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Tour 2026 - Lagos live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/lagos-valencia-tour-2026-20261120/\nTickets: https://tickets.oneboxtds.com/lasordera/select/2921855",
+    "description": "Tour 2026 - Lagos live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/lagos-valencia-tour-2026-20261120/",
     "start": "2026-11-20T21:00:00+01:00",
     "end": "2026-11-20T23:30:00+01:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/lagos-valencia-tour-2026-20261120/",
-    "ticket_url": "https://tickets.oneboxtds.com/lasordera/select/2921855",
+    "ticket_url": "https://www.roigarena.com/es/event/lagos-valencia-tour-2026-20261120/",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F4121079f-4118-40f7-958f-e0887e3dc4be?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
@@ -537,12 +457,12 @@
     "summary": "Mind Enterprises - Roig Arena",
     "title": "Mind Enterprises",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Mind Enterprises live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/mind-enterprises-20261128/\nTickets: https://www.enterticket.es/eventos/mind-enterprises-live-en-valencia-auditorio-roig-arena-607235",
+    "description": "Mind Enterprises live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/mind-enterprises-20261128/",
     "start": "2026-11-28T21:00:00+01:00",
     "end": "2026-11-28T23:30:00+01:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/mind-enterprises-20261128/",
-    "ticket_url": "https://www.enterticket.es/eventos/mind-enterprises-live-en-valencia-auditorio-roig-arena-607235",
+    "ticket_url": "https://www.roigarena.com/es/event/mind-enterprises-20261128/",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F5659ebda-3ea6-44f1-92cc-b69df78f4dcb?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
@@ -651,8 +571,8 @@
     "title": "Valencia BC vs Mirai Euskotren",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
     "description": "Official Valencia Basket (Femenino) fixture: Valencia BC vs Mirai Euskotren.\nCompetition: Liga Femenina Endesa / J11\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/",
-    "start": "2026-12-09T20:00:00+01:00",
-    "end": "2026-12-09T22:00:00+01:00",
+    "start": "2026-12-09T19:00:00+01:00",
+    "end": "2026-12-09T21:00:00+01:00",
     "category": "Sports",
     "url": "https://www.valenciabasket.com/",
     "ticket_url": "https://www.valenciabasket.com/",
@@ -762,12 +682,12 @@
     "summary": "Pop Rock Tour - Melendi - Roig Arena",
     "title": "Pop Rock Tour - Melendi",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Pop Rock Tour - Melendi live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/melendi-pop-rock-tour-20261213/",
+    "description": "Pop Rock Tour - Melendi live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/melendi-pop-rock-tour-20261213/\nTickets: https://tickets.oneboxtds.com/melendi_poprock_tour/select/2708206?hl=es-ES",
     "start": "2026-12-13T20:30:00+01:00",
     "end": "2026-12-13T22:00:00+01:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/melendi-pop-rock-tour-20261213/",
-    "ticket_url": "https://www.roigarena.com/es/event/melendi-pop-rock-tour-20261213/",
+    "ticket_url": "https://tickets.oneboxtds.com/melendi_poprock_tour/select/2708206?hl=es-ES",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F03a713eb-69ee-4884-9564-f21c5f381f9f?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
@@ -907,8 +827,8 @@
     "title": "Valencia BC vs Hozono Global Jairis",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
     "description": "Official Valencia Basket (Femenino) fixture: Valencia BC vs Hozono Global Jairis.\nCompetition: Liga Femenina Endesa / J14\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/",
-    "start": "2026-12-22T20:30:00+01:00",
-    "end": "2026-12-22T22:30:00+01:00",
+    "start": "2026-12-22T20:00:00+01:00",
+    "end": "2026-12-22T22:00:00+01:00",
     "category": "Sports",
     "url": "https://www.valenciabasket.com/",
     "ticket_url": "https://www.valenciabasket.com/",
@@ -986,12 +906,12 @@
     "summary": "Concierto A\u00f1o Nuevo - Roig Arena",
     "title": "Concierto A\u00f1o Nuevo",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Concierto A\u00f1o Nuevo live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/concierto-ano-nuevo-20270101/\nTickets: https://tickets.oneboxtds.com/roigarena/events/60916?hl=es-ES",
+    "description": "Concierto A\u00f1o Nuevo live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/concierto-ano-nuevo-20270101/\nTickets: https://entradas.roigarena.com/roigarena/select/3044487",
     "start": "2027-01-01T19:30:00+01:00",
     "end": "2027-01-01T21:00:00+01:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/concierto-ano-nuevo-20270101/",
-    "ticket_url": "https://tickets.oneboxtds.com/roigarena/events/60916?hl=es-ES",
+    "ticket_url": "https://entradas.roigarena.com/roigarena/select/3044487",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F5f4bcf31-d374-498c-8aa3-a4a4790f8012?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
@@ -1750,6 +1670,22 @@
     ]
   },
   {
+    "summary": "MALA CONDUCTA 007 : John P\u014d - Roig Arena",
+    "title": "MALA CONDUCTA 007 : John P\u014d",
+    "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
+    "description": "MALA CONDUCTA 007 : John P\u014d live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/john-po-20270304/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3065410?hl=es-ES",
+    "start": "2027-03-04T19:00:00+01:00",
+    "end": "2027-03-04T21:30:00+01:00",
+    "category": "Concert",
+    "url": "https://www.roigarena.com/es/event/john-po-20270304/",
+    "ticket_url": "https://tickets.oneboxtds.com/roigarena/select/3065410?hl=es-ES",
+    "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F8aaf06b2-9f1a-4aef-b4be-5087372cb591?alt=media&optimize=high&quality=70&width=500",
+    "source_web": "https://www.roigarena.com/es/eventos/",
+    "sources": [
+      "https://www.roigarena.com/es/eventos/"
+    ]
+  },
+  {
     "summary": "Valencia Basket vs Zalgiris Kaunas (EuroLeague / J29)",
     "title": "Valencia Basket vs Zalgiris Kaunas",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
@@ -1785,13 +1721,29 @@
     "summary": "Remember del Arena: Especial Fallas - Roig Arena",
     "title": "Remember del Arena: Especial Fallas",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Remember del Arena: Especial Fallas live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/remember-arena-20270306/",
+    "description": "Remember del Arena: Especial Fallas live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/remember-arena-20270306/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3067794?hl=es-ES",
     "start": "2027-03-06T17:00:00+01:00",
     "end": "2027-03-06T19:30:00+01:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/remember-arena-20270306/",
-    "ticket_url": "https://www.roigarena.com/es/event/remember-arena-20270306/",
+    "ticket_url": "https://tickets.oneboxtds.com/roigarena/select/3067794?hl=es-ES",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fd53419bf-3cd5-46f3-ba9d-f54d4f71ddaa?alt=media&optimize=high&quality=70&width=500",
+    "source_web": "https://www.roigarena.com/es/eventos/",
+    "sources": [
+      "https://www.roigarena.com/es/eventos/"
+    ]
+  },
+  {
+    "summary": "Homenaje a Nino Bravo Rock y Coraz\u00f3n - Roig Arena",
+    "title": "Homenaje a Nino Bravo Rock y Coraz\u00f3n",
+    "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
+    "description": "Homenaje a Nino Bravo Rock y Coraz\u00f3n live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/homenaje-nino-20270306/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3067599?hl=es-ES",
+    "start": "2027-03-06T22:00:00+01:00",
+    "end": "2027-03-07T00:30:00+01:00",
+    "category": "Concert",
+    "url": "https://www.roigarena.com/es/event/homenaje-nino-20270306/",
+    "ticket_url": "https://tickets.oneboxtds.com/roigarena/select/3067599?hl=es-ES",
+    "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fc6480bd6-17b6-4a25-b5ad-7cb24b150e90?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
       "https://www.roigarena.com/es/eventos/"
@@ -1834,8 +1786,8 @@
     "title": "Valencia BC vs Movistar Estudiantes",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
     "description": "Official Valencia Basket (Femenino) fixture: Valencia BC vs Movistar Estudiantes.\nCompetition: Liga Femenina Endesa / J26\nVenue: Roig Arena Valencia\nTickets: https://www.valenciabasket.com/",
-    "start": "2027-03-17T20:00:00+01:00",
-    "end": "2027-03-17T22:00:00+01:00",
+    "start": "2027-03-17T19:00:00+01:00",
+    "end": "2027-03-17T21:00:00+01:00",
     "category": "Sports",
     "url": "https://www.valenciabasket.com/",
     "ticket_url": "https://www.valenciabasket.com/",
@@ -1903,7 +1855,7 @@
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/manowar-tour-2027-20270323/",
     "ticket_url": "https://www.roigarena.com/es/event/manowar-tour-2027-20270323/",
-    "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fac2d878d-e200-43eb-8c36-478cf11718aa?alt=media&optimize=high&quality=70&width=500",
+    "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fc31b297c-e9c2-4c5b-9270-65db6bb8e67c?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
       "https://www.roigarena.com/es/eventos/"
@@ -2249,12 +2201,12 @@
     "summary": "Harlem Globetrotters - Roig Arena",
     "title": "Harlem Globetrotters",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Harlem Globetrotters live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/harlem-globetrotters-20270504/",
+    "description": "Harlem Globetrotters live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/harlem-globetrotters-20270504/\nTickets: https://entradas.roigarena.com/roigarena/events/59771",
     "start": "2027-05-04T20:00:00+02:00",
     "end": "2027-05-04T22:30:00+02:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/harlem-globetrotters-20270504/",
-    "ticket_url": "https://www.roigarena.com/es/event/harlem-globetrotters-20270504/",
+    "ticket_url": "https://entradas.roigarena.com/roigarena/events/59771",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F0c2caef2-506b-4441-9bec-fa82ad8719a1?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
@@ -2329,12 +2281,12 @@
     "summary": "Tour Eternos - David Bisbal - Roig Arena",
     "title": "Tour Eternos - David Bisbal",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Tour Eternos - David Bisbal live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/david-bisbal-20270522/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3021121?hl=es-ES",
+    "description": "Tour Eternos - David Bisbal live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/david-bisbal-20270522/",
     "start": "2027-05-22T21:00:00+02:00",
     "end": "2027-05-22T23:30:00+02:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/david-bisbal-20270522/",
-    "ticket_url": "https://tickets.oneboxtds.com/roigarena/select/3021121?hl=es-ES",
+    "ticket_url": "https://www.roigarena.com/es/event/david-bisbal-20270522/",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2Fe654eae5-fa2d-4854-ab55-7c428ddffc6a?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
@@ -2409,12 +2361,12 @@
     "summary": "Queens of the Stone Age - Roig Arena",
     "title": "Queens of the Stone Age",
     "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
-    "description": "Queens of the Stone Age live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/queens-of-the-stone-age-20270621/",
+    "description": "Queens of the Stone Age live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/queens-of-the-stone-age-20270621/\nTickets: https://tickets.oneboxtds.com/roigarena/select/3071626?hl=es-ES",
     "start": "2027-06-21T20:30:00+02:00",
     "end": "2027-06-21T22:00:00+02:00",
     "category": "Concert",
     "url": "https://www.roigarena.com/es/event/queens-of-the-stone-age-20270621/",
-    "ticket_url": "https://www.roigarena.com/es/event/queens-of-the-stone-age-20270621/",
+    "ticket_url": "https://tickets.oneboxtds.com/roigarena/select/3071626?hl=es-ES",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F3436e0eb-1373-4e98-8013-afaaa130b36f?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
@@ -2496,6 +2448,22 @@
     "url": "https://www.roigarena.com/es/event/il-volo-world-tour-2026-2027-20271031/",
     "ticket_url": "https://www.roigarena.com/es/event/il-volo-world-tour-2026-2027-20271031/",
     "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F148eaf23-ff3b-4e6f-9953-105e38a56444?alt=media&optimize=high&quality=70&width=500",
+    "source_web": "https://www.roigarena.com/es/eventos/",
+    "sources": [
+      "https://www.roigarena.com/es/eventos/"
+    ]
+  },
+  {
+    "summary": "Andr\u00e9 Rieu - Roig Arena",
+    "title": "Andr\u00e9 Rieu",
+    "location": "Roig Arena, Av. de Fernando Abril Martorell, 46013 Valencia, Spain",
+    "description": "Andr\u00e9 Rieu live at Roig Arena Valencia.\nOfficial details: https://www.roigarena.com/es/event/andre-rieu-20280121/",
+    "start": "2028-01-21T20:00:00+01:00",
+    "end": "2028-01-21T22:30:00+01:00",
+    "category": "Concert",
+    "url": "https://www.roigarena.com/es/event/andre-rieu-20280121/",
+    "ticket_url": "https://www.roigarena.com/es/event/andre-rieu-20280121/",
+    "image_url": "https://www.roigarena.com/firebase/v0/b/ra-mobileapp-424007.appspot.com/o/public%2F0d68b624-2bfe-46c6-9300-29e034b30c8d?alt=media&optimize=high&quality=70&width=500",
     "source_web": "https://www.roigarena.com/es/eventos/",
     "sources": [
       "https://www.roigarena.com/es/eventos/"
